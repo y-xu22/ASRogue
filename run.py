@@ -16,19 +16,17 @@ attack_line_list = []
 
 # 支持增量更新，但每次inference内容是续写不是重写，需要删除旧推断结果
 def model_run():
-    # ASRank(
-    #     ixp="1200 4635 5507 6695 7606 8714 9355 9439 9560 9722 9989 11670 15645 17819 18398 21371 24029 24115 24990 35054 40633 42476 43100 47886 48850 50384 55818 57463",
-    #     clique = "174 209 286 701 1239 1299 2828 2914 3257 3320 3356 3491 5511 6453 6461 6762 6830 7018 12956",
-    #     exclvps = "",
-    #     verbose = True,
-    #     input_path = "./data/20241001.all-paths.bz2",
-    #     output_path = "./data/inference-20241001.txt"
-    # ).read_paths().dump_model("./data/model_ori.pkl").infer_rel()
-    # pickle.load(open(data_dir/"model.pkl", "rb")).infer_rel()
-    model = open(data_dir/"model_ori.pkl", "rb")
-    # pickle.load(open(data_dir/"model_ori.pkl", "rb")).add_paths(attack_line_list).infer_rel()
-    pickle.load(model).add_paths(attack_line_list).infer_rel()
-    del model
+    ASRank(
+        ixp="1200 4635 5507 6695 7606 8714 9355 9439 9560 9722 9989 11670 15645 17819 18398 21371 24029 24115 24990 35054 40633 42476 43100 47886 48850 50384 55818 57463",
+        clique = "174 209 286 701 1239 1299 2828 2914 3257 3320 3356 3491 5511 6453 6461 6762 6830 7018 12956",
+        exclvps = "",
+        verbose = True,
+        input_path = "./data/20241001.all-paths.bz2",
+        output_path = "./data/inference-20241001.txt"
+    ).read_paths().dump_model("./data/model_ori.pkl").infer_rel()
+    # model = open(data_dir/"model_ori.pkl", "rb")
+    # pickle.load(model).add_paths(attack_line_list).infer_rel()
+    # del model
 # model_run()
 
 def degree_difference_1():
@@ -162,7 +160,7 @@ def check_accuracy(rvs_provider, rvs_customer, att_announcer, att_source, rvs_p_
     #     print(i)
     #     print(j)
     #     input()
-    with open("./data/attack p2p N0+all 100 100.txt", "a") as f:
+    with open("./data/attack result.txt", "a") as f:
         f.write("----ATT----\n")
         f.write(f"rvs_provider = {rvs_provider}\n")
         f.write(f"rvs_customer = {rvs_customer}\n")
@@ -181,16 +179,16 @@ def check_accuracy(rvs_provider, rvs_customer, att_announcer, att_source, rvs_p_
         flag = False
         for diff in diff_set:
             # p2c reverse
-            # if rvs_provider == diff[0] and rvs_customer == diff[1] and diff[2] == '-1':
+            if rvs_provider == diff[0] and rvs_customer == diff[1] and diff[2] == '-1':
+                flag = True
+                break
+            # p2p
+            # if rvs_provider == diff[0] and rvs_customer == diff[1] and diff[2] == '0':
             #     flag = True
             #     break
-            # p2p
-            if rvs_provider == diff[0] and rvs_customer == diff[1] and diff[2] == '0':
-                flag = True
-                break
-            if rvs_provider == diff[1] and rvs_customer == diff[0] and diff[2] == '0':
-                flag = True
-                break
+            # if rvs_provider == diff[1] and rvs_customer == diff[0] and diff[2] == '0':
+            #     flag = True
+            #     break
             # end p2p
         for diff in diff_set:
             if rvs_provider == diff[1] and rvs_customer == diff[0]:
