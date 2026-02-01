@@ -1,0 +1,6 @@
+ASRank all path data: get from CAIDA,  for example
+https://publicdata.caida.org/datasets/as-relationships/serial-1/
+
+RIB data: get from RouteViews and RIPE RIS, for example
+https://data.ris.ripe.net/rrc00/2024.09/bview.20240930.0000.gz
+http://archive.routeviews.org/route-views2/bgpdata/2024.09/RIBS/rib.20240930.0000.bz2
