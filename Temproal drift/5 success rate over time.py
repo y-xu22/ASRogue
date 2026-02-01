@@ -2,7 +2,6 @@ import os
 import glob
 import math
 
-# P2C_FILE = "./p2c rel tg.txt"
 # P2C_FILE = "./20241001.as-rel.txt"
 P2C_FILE = "./inference-20241001_ori.txt"
 BASE_FILE = "./20241001.all-paths.bz2.TD.txt"
