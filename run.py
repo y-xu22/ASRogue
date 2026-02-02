@@ -160,7 +160,7 @@ def check_accuracy(rvs_provider, rvs_customer, att_announcer, att_source, rvs_p_
     #     print(i)
     #     print(j)
     #     input()
-    with open("./data/attack result.txt", "a") as f:
+    with open("./Data/attack result.txt", "a") as f:
         f.write("----ATT----\n")
         f.write(f"rvs_provider = {rvs_provider}\n")
         f.write(f"rvs_customer = {rvs_customer}\n")
