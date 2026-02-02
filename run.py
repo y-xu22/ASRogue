@@ -217,10 +217,6 @@ def check_accuracy(rvs_provider, rvs_customer, att_announcer, att_source, rvs_p_
                 diff_list[2] += 1
             if att_source in s:
                 diff_list[3] += 1
-            if rvs_provider not in s and rvs_customer not in s and att_announcer not in s and att_source not in s:
-                other_influenced.append(s)
-        # f.write(f"\nother influenced relationships: {other_influenced}\n")
-        f.write(f"other influenced rel len: {len(other_influenced)}\n")
         f.write(f"diff [rvs_provider, rvs_customer, att_announcer, att_source] = {diff_list}\n")
         f.write("\n")
 
