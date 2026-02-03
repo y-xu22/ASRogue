@@ -23,7 +23,7 @@ with open("./data/AS_size.txt") as f:
     AS_size_dict["L"] = AS_line[3].strip().split(" ")
 
 AS_pool = AS_pool + AS_size_dict["0"] + AS_size_dict["S"] + AS_size_dict["M"] + AS_size_dict["L"]
-with open("./data/p2c rel tg.txt") as f:
+with open("./data/all rel TD.txt") as f:
     f_list = f.readlines()
     for line in f_list[1:]:
         relation = line.split("\t")
