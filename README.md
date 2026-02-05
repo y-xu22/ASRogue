@@ -3,16 +3,16 @@ Artifacts for the USENIX Security '26 paper: "ASRogue: Manipulating ASRank-Infer
 
 ## Overview
 
-- `asrank.py`: Provides a Python-based implementation of the ASRank inference algorithm.
-- `GeneratePath.py`: Generates forged AS paths used in ASRogue's attack evaluation.
-- `run multi.py`: Executes multiple experiments by randomly selecting a pair of target ASes and a pair of P2C ASes as attackers, constructing forged attack paths, and injecting them into ASRank's inference pipeline. After inference completes, the attacked results are compared against the original baseline output.
+1. `asrank.py`: Provides a Python-based implementation of the ASRank inference algorithm.
+2. `GeneratePath.py`: Generates forged AS paths used in ASRogue's attack evaluation.
+3. `run multi.py`: Executes multiple experiments by randomly selecting a pair of target ASes and a pair of P2C ASes as attackers, constructing forged attack paths, and injecting them into ASRank's inference pipeline. After inference completes, the attacked results are compared against the original baseline output.
 
 ## Dataset
 
-- **ASRank all-path dataset** :  
+1. **ASRank all-path dataset** :  
 Obtainable from CAIDA, e.g.  
 https://publicdata.caida.org/datasets/as-relationships/serial-1/
-- **Real-world RIB dataset** :  
+2. **Real-world RIB dataset** :  
 Downloadable from RouteViews and RIPE RIS, e.g.  
 https://data.ris.ripe.net/rrc00/2024.09/bview.20240930.0000.gz  
 http://archive.routeviews.org/route-views2/bgpdata/2024.09/RIBS/rib.20240930.0000.bz2
