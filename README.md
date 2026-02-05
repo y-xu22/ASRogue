@@ -2,11 +2,15 @@
 Artifacts for the USENIX Security '26 paper: "ASRogue: Manipulating ASRank-Inferred AS Relationships"
 
 ## Overview
+
 - `asrank.py`: Provides a Python-based implementation of the ASRank inference algorithm.
+
 - `GeneratePath.py`: Generates forged AS paths used in ASRogue's attack evaluation.
+
 - `run multi.py`: Executes multiple experiments by randomly selecting a pair of target ASes and a pair of P2C ASes as attackers, constructing forged attack paths, and injecting them into ASRank's inference pipeline. After inference completes, the attacked results are compared against the original baseline output.
 
 ## Dataset
+
 - **ASRank all-path dataset** :  
 Obtainable from CAIDA, e.g.  
 https://publicdata.caida.org/datasets/as-relationships/serial-1/
