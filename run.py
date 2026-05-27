@@ -16,17 +16,19 @@ attack_line_list = []
 
 # 支持增量更新，但每次inference内容是续写不是重写，需要删除旧推断结果
 def model_run():
-    ASRank(
-        ixp="1200 4635 5507 6695 7606 8714 9355 9439 9560 9722 9989 11670 15645 17819 18398 21371 24029 24115 24990 35054 40633 42476 43100 47886 48850 50384 55818 57463",
-        clique = "174 209 286 701 1239 1299 2828 2914 3257 3320 3356 3491 5511 6453 6461 6762 6830 7018 12956",
-        exclvps = "",
-        verbose = True,
-        input_path = "./data/20241001.all-paths.bz2",
-        output_path = "./data/inference-20241001.txt"
-    ).read_paths().dump_model("./data/model_ori.pkl").infer_rel()
-    # model = open(data_dir/"model_ori.pkl", "rb")
-    # pickle.load(model).add_paths(attack_line_list).infer_rel()
-    # del model
+    if not (data_dir/"model_ori.pkl").exists():
+        ASRank(
+            ixp="1200 4635 5507 6695 7606 8714 9355 9439 9560 9722 9989 11670 15645 17819 18398 21371 24029 24115 24990 35054 40633 42476 43100 47886 48850 50384 55818 57463",
+            clique = "174 209 286 701 1239 1299 2828 2914 3257 3320 3356 3491 5511 6453 6461 6762 6830 7018 12956",
+            exclvps = "",
+            verbose = True,
+            input_path = "./data/20241001.all-paths.bz2",
+            output_path = "./data/inference-20241001.txt"
+        ).read_paths().dump_model("./data/model_ori.pkl").infer_rel()
+    elif len(attack_line_list) > 0:
+        model = open(data_dir/"model_ori.pkl", "rb")
+        pickle.load(model).add_paths(attack_line_list).infer_rel()
+        del model
 # model_run()
 
 def degree_difference_1():
@@ -220,15 +222,18 @@ def check_accuracy(rvs_provider, rvs_customer, att_announcer, att_source, rvs_p_
         f.write(f"diff [rvs_provider, rvs_customer, att_announcer, att_source] = {diff_list}\n")
         f.write("\n")
 
-# model_run()
-rvs_provider = sys.argv[1]
-rvs_customer = sys.argv[2]
-att_announcer = sys.argv[3]
-att_source = sys.argv[4]
-gen_path = Gen_path(rvs_provider, rvs_customer, att_announcer, att_source)
-attack_line_list, rvs_p_ori_tg, rvs_c_ori_tg = gen_path.gen_path()
-del gen_path
-model_run()
-check_accuracy(rvs_provider, rvs_customer, att_announcer, att_source, rvs_p_ori_tg, rvs_c_ori_tg)
-if os.path.exists("./data/inference-20241001.txt"):
-    os.remove("./data/inference-20241001.txt")
+if len(sys.argv) < 2:
+    print("No attack, just inference.")
+    model_run()
+else:
+    rvs_provider = sys.argv[1]
+    rvs_customer = sys.argv[2]
+    att_announcer = sys.argv[3]
+    att_source = sys.argv[4]
+    gen_path = Gen_path(rvs_provider, rvs_customer, att_announcer, att_source)
+    attack_line_list, rvs_p_ori_tg, rvs_c_ori_tg = gen_path.gen_path()
+    del gen_path
+    model_run()
+    check_accuracy(rvs_provider, rvs_customer, att_announcer, att_source, rvs_p_ori_tg, rvs_c_ori_tg)
+    if os.path.exists("./data/inference-20241001.txt"):
+        os.remove("./data/inference-20241001.txt")
