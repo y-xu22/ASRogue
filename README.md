@@ -20,5 +20,5 @@ http://archive.routeviews.org/route-views2/bgpdata/2024.09/RIBS/rib.20240930.000
 ## Usage
 1. Download the dataset `20241001.all-paths.bz2` from CAIDA, or obtain it by running
 `download.py https://publicdata.caida.org/datasets/routing/20241001.all-paths.bz2 -o Data -d`.
-2. Run the `model_run()` function in `run.py` to generate the original ASRank inference result by running `python run.py`, or directly use `data/inference-20241001_ori.txt` as the baseline output.
-3. Run `run_multi.py` to evaluate the effectiveness of ASRogue by running `python run_multi.py {step2, allp2c, allrel} {ASsize, allrand, p2p} {round}`. The attack outputs and corresponding analyses will be written to `data/attack result.txt`.
+2. Run `python run.py` to generate the baseline ASRank inference result and `model_ori.pkl`. Then rename the generated `data/inference-20241001.txt` to `data/inference-20241001_ori.txt`, or directly use `data/inference-20241001_ori.txt` as the baseline output.
+3. Run `python run_multi.py {step2, allp2c, allrel} {ASsize, allrand, p2p} {round}` to evaluate ASRogue's effectiveness. The attack results and corresponding analyses will be written to `data/attack result.txt`.

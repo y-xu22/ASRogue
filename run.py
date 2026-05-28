@@ -226,6 +226,9 @@ if len(sys.argv) < 2:
     print("No attack, just inference.")
     model_run()
 else:
+    if not (data_dir/"model_ori.pkl").exists():
+        print("Model not found, run inference first.")
+        model_run()
     rvs_provider = sys.argv[1]
     rvs_customer = sys.argv[2]
     att_announcer = sys.argv[3]
