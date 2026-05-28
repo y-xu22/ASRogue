@@ -1,6 +1,7 @@
 import random
 import time
 import pickle
+from pathlib import Path
 
 # import pandas as pd
 # pd.read_csv
@@ -119,7 +120,8 @@ class Gen_path:
         self.start = time.time()
 
     def gen_path(self):
-        # p2c_dict = P2C_DICT(self.att_announcer, self.att_source).read_file().dump_model(output_path)
+        if not Path(self.output_path).exists():
+            p2c_dict = P2C_DICT(self.att_announcer, self.att_source).read_file().dump_model(self.output_path)
         p2c_dict = pickle.load(open(self.output_path, "rb"))
 
         ## 1.2 get information
