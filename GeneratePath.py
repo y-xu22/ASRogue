@@ -106,7 +106,7 @@ class P2C_DICT:
         return self
 
 class Gen_path:
-    def __init__(self, rvs_provider, rvs_customer, att_announcer, att_source):
+    def __init__(self, rvs_provider, rvs_customer, att_announcer, att_source, type):
         # 0. input ASN
         self.rvs_provider = rvs_provider # "39647"
         self.rvs_customer = rvs_customer # "200020"
@@ -116,6 +116,7 @@ class Gen_path:
 
         self.attack_AS_path = []
         self.output_path = "./data/p2c_model.pkl"
+        self.type = type
 
         self.start = time.time()
 
@@ -189,20 +190,22 @@ class Gen_path:
             attack_path.append(string)
 
         # add random noise
-        # attack_path = []
-        # for i in range(100):
-        #     attack_path.append(str(random.choice(p2c_dict.AS)) + " " + str(random.choice(p2c_dict.AS)) + " " + str(random.choice(p2c_dict.AS)))
+        if self.type == "noise":
+            attack_path = []
+            for i in range(100):
+                attack_path.append(str(random.choice(p2c_dict.AS)) + " " + str(random.choice(p2c_dict.AS)) + " " + str(random.choice(p2c_dict.AS)))
         # end add random noise
 
         # test p2p
-        attack_path = []
-        if p2c_dict.get_tg(self.rvs_customer) < p2c_dict.get_tg(self.rvs_provider):
-            attack_path.append(str(self.att_announcer) + " " + str(self.rvs_customer) + " " + str(self.rvs_provider) + " " + str(self.att_source))
-        if p2c_dict.get_tg(self.rvs_provider) < p2c_dict.get_tg(self.rvs_customer):
-            attack_path.append(str(self.att_announcer) + " " + str(self.rvs_provider) + " " + str(self.rvs_customer) + " " + str(self.att_source))
-        if p2c_dict.get_tg(self.rvs_customer) == p2c_dict.get_tg(self.rvs_provider):
-            attack_path.append(str(self.att_announcer) + " " + str(self.rvs_customer) + " " + str(self.rvs_provider) + " " + str(self.att_source))
-            attack_path.append(str(self.att_announcer) + " " + str(self.rvs_provider) + " " + str(self.att_source))
+        if self.type == "p2p":
+            attack_path = []
+            if p2c_dict.get_tg(self.rvs_customer) < p2c_dict.get_tg(self.rvs_provider):
+                attack_path.append(str(self.att_announcer) + " " + str(self.rvs_customer) + " " + str(self.rvs_provider) + " " + str(self.att_source))
+            if p2c_dict.get_tg(self.rvs_provider) < p2c_dict.get_tg(self.rvs_customer):
+                attack_path.append(str(self.att_announcer) + " " + str(self.rvs_provider) + " " + str(self.rvs_customer) + " " + str(self.att_source))
+            if p2c_dict.get_tg(self.rvs_customer) == p2c_dict.get_tg(self.rvs_provider):
+                attack_path.append(str(self.att_announcer) + " " + str(self.rvs_customer) + " " + str(self.rvs_provider) + " " + str(self.att_source))
+                attack_path.append(str(self.att_announcer) + " " + str(self.rvs_provider) + " " + str(self.att_source))
         # end test p2p
 
         print(attack_path)

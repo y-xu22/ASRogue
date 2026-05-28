@@ -89,7 +89,7 @@ with open("./data/inference-20241001_ori.txt", "r") as f:
                         rvs_customer = rel_list[2 * i].split("|")[0] # "200020"
                         att_announcer = rel_list[2 * i + 1].split("|")[0] # "18403"
                         att_source = rel_list[2 * i + 1].split("|")[1] # "63737"
-                        os.system(f"python run.py {rvs_provider} {rvs_customer} {att_announcer} {att_source}")
+                        os.system(f"python run.py {rvs_provider} {rvs_customer} {att_announcer} {att_source} p2c")
                         print(f"{size[n]} {size[m]} round {cnt} done! time: {time.time() - start}")
                         if cnt == round:
                             break
@@ -102,7 +102,7 @@ with open("./data/inference-20241001_ori.txt", "r") as f:
             rvs_customer = rel_list[2 * i].split("|")[0] # "200020"
             att_announcer = rel_list[2 * i + 1].split("|")[0] # "18403"
             att_source = rel_list[2 * i + 1].split("|")[1] # "63737"
-            os.system(f"python run.py {rvs_provider} {rvs_customer} {att_announcer} {att_source}")
+            os.system(f"python run.py {rvs_provider} {rvs_customer} {att_announcer} {att_source} p2c")
             print(f"round {i} done! time: {time.time() - start}")
 
     ### p2p test
@@ -135,5 +135,5 @@ with open("./data/inference-20241001_ori.txt", "r") as f:
                         break
             att_announcer = rel_list[2 * i + 1].split("|")[0] # "18403"
             att_source = rel_list[2 * i + 1].split("|")[1] # "63737"
-            os.system(f"python run.py {rvs_provider} {rvs_customer} {att_announcer} {att_source}")
+            os.system(f"python run.py {rvs_provider} {rvs_customer} {att_announcer} {att_source} p2p")
             print(f"round {i} done! time: {time.time() - start}")

@@ -132,10 +132,8 @@ def degree_difference_2():
     fig.savefig(data_dir/f"degree_difference_2.png", bbox_inches="tight")
 # degree_difference_2()
 
-def check_accuracy(rvs_provider, rvs_customer, att_announcer, att_source, rvs_p_ori_tg, rvs_c_ori_tg):
-    # inferred_file = data_dir/"inference-20241001_att1.txt"
+def check_accuracy(rvs_provider, rvs_customer, att_announcer, att_source, rvs_p_ori_tg, rvs_c_ori_tg, type):
     inferred_file = data_dir/"inference-20241001.txt"
-    # baseline_file = data_dir/"baseline-20241001.txt"
     baseline_file = data_dir/"inference-20241001_ori.txt"
 
     def parse_rel(file_path):
@@ -156,12 +154,6 @@ def check_accuracy(rvs_provider, rvs_customer, att_announcer, att_source, rvs_p_
     baseline_set = parse_rel(baseline_file)
     diff_set = inferred_set^baseline_set
 
-    # diff_setA = inferred_set-baseline_set
-    # diff_setB = baseline_set-inferred_set
-    # for i,j in zip(sorted(diff_setA), sorted(diff_setB)):
-    #     print(i)
-    #     print(j)
-    #     input()
     with open("./data/attack result.txt", "a") as f:
         f.write("----ATT----\n")
         f.write(f"rvs_provider = {rvs_provider}\n")
@@ -181,16 +173,18 @@ def check_accuracy(rvs_provider, rvs_customer, att_announcer, att_source, rvs_p_
         flag = False
         for diff in diff_set:
             # p2c reverse
-            if rvs_provider == diff[0] and rvs_customer == diff[1] and diff[2] == '-1':
-                flag = True
-                break
+            if type == "p2c":
+                if rvs_provider == diff[0] and rvs_customer == diff[1] and diff[2] == '-1':
+                    flag = True
+                    break
             # p2p
-            # if rvs_provider == diff[0] and rvs_customer == diff[1] and diff[2] == '0':
-            #     flag = True
-            #     break
-            # if rvs_provider == diff[1] and rvs_customer == diff[0] and diff[2] == '0':
-            #     flag = True
-            #     break
+            if type == "p2p":
+                if rvs_provider == diff[0] and rvs_customer == diff[1] and diff[2] == '0':
+                    flag = True
+                    break
+                if rvs_provider == diff[1] and rvs_customer == diff[0] and diff[2] == '0':
+                    flag = True
+                    break
             # end p2p
         for diff in diff_set:
             if rvs_provider == diff[1] and rvs_customer == diff[0]:
@@ -233,10 +227,11 @@ else:
     rvs_customer = sys.argv[2]
     att_announcer = sys.argv[3]
     att_source = sys.argv[4]
-    gen_path = Gen_path(rvs_provider, rvs_customer, att_announcer, att_source)
+    type = sys.argv[5]
+    gen_path = Gen_path(rvs_provider, rvs_customer, att_announcer, att_source, type)
     attack_line_list, rvs_p_ori_tg, rvs_c_ori_tg = gen_path.gen_path()
     del gen_path
     model_run()
-    check_accuracy(rvs_provider, rvs_customer, att_announcer, att_source, rvs_p_ori_tg, rvs_c_ori_tg)
+    check_accuracy(rvs_provider, rvs_customer, att_announcer, att_source, rvs_p_ori_tg, rvs_c_ori_tg, type)
     if os.path.exists("./data/inference-20241001.txt"):
         os.remove("./data/inference-20241001.txt")
