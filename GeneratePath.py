@@ -16,7 +16,7 @@ class P2C_DICT:
         self.AS = []         # [AS1, AS2, ...]
         self.TG = []         # [(AS1, tg1), (AS2, tg2), ...]
         self.P2C = []        # [[(AS2, rel2), (AS3, rel3), ...], [(AS3, rel3), ...], ...]
-        self.P2C_head = []   # [AS1, AS2, ...]，每个 AS 对应 P2C 中关系的 provider
+        self.P2C_head = []   # [AS1, AS2, ...]
         self.AS_pool = []
         self.P2C_dict = {}
         self.att_announcer = att_announcer

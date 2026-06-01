@@ -14,7 +14,6 @@ data_dir = Path(__file__).resolve().parent/"data"
 clique = ["174", "209", "286", "701", "1239", "1299", "2828", "2914", "3257", "3320", "3356", "3491", "5511", "6453", "6461", "6762", "6830", "7018", "12956"]
 attack_line_list = []
 
-# 支持增量更新，但每次inference内容是续写不是重写，需要删除旧推断结果
 def model_run():
     if not (data_dir/"model_ori.pkl").exists():
         ASRank(
