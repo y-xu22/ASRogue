@@ -1,0 +1,5747 @@
+----ATT----
+rvs_provider = 13335
+rvs_customer = 14988
+att_announcer = 4713
+att_source = 23808
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('14988', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 61832
+rvs_customer = 52320
+att_announcer = 201814
+att_source = 215720
+rvs_p_ori_tg = 1794
+rvs_c_ori_tg = 381
+has clique = False
+att len: 713
+att ori: ('52320', '61832', '-1', 2)
+att successful: True
+diff set len: 3165
+Difference: 0.58%
+other influenced rel len: 1728
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [1432, 5, 1, 2]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 8932
+att_announcer = 31472
+att_source = 209363
+rvs_p_ori_tg = 223
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('8932', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 150748
+att_announcer = 6939
+att_source = 399390
+rvs_p_ori_tg = 97
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('150748', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 52468
+rvs_customer = 23487
+att_announcer = 17222
+att_source = 269270
+rvs_p_ori_tg = 12
+rvs_c_ori_tg = 520
+has clique = False
+att len: 1
+att ori: ('23487', '52468', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 46650
+att_announcer = 45117
+att_source = 136636
+rvs_p_ori_tg = 7
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('46650', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 21574
+att_announcer = 7539
+att_source = 18183
+rvs_p_ori_tg = 251
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('21574', '13335', '-1', 4)
+att successful: True
+diff set len: 12
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [8, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 28343
+att_announcer = 11550
+att_source = 395999
+rvs_p_ori_tg = 126
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('28343', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 20804
+rvs_customer = 29075
+att_announcer = 263144
+att_source = 268812
+rvs_p_ori_tg = 1698
+rvs_c_ori_tg = 455
+has clique = False
+att len: 628
+att ori: ('29075', '20804', '-1', 7)
+att successful: True
+diff set len: 2853
+Difference: 0.52%
+other influenced rel len: 1596
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [1254, 3, 1, 2]
+
+----ATT----
+rvs_provider = 20473
+rvs_customer = 270119
+att_announcer = 12605
+att_source = 21013
+rvs_p_ori_tg = 5
+rvs_c_ori_tg = 1336
+has clique = False
+att len: 1
+att ori: ('270119', '20473', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 7459
+att_announcer = 38255
+att_source = 146417
+rvs_p_ori_tg = 61
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('7459', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 27895
+att_announcer = 29909
+att_source = 63068
+rvs_p_ori_tg = 9
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('27895', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 35819
+att_announcer = 23520
+att_source = 27745
+rvs_p_ori_tg = 74
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('35819', '13335', '-1', 4)
+att successful: True
+diff set len: 17
+Difference: 0.00%
+other influenced rel len: 4
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [12, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 13004
+att_announcer = 263450
+att_source = 262486
+rvs_p_ori_tg = 94
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('13004', '13335', '-1', 4)
+att successful: True
+diff set len: 18
+Difference: 0.00%
+other influenced rel len: 4
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 9, 1, 1]
+
+----ATT----
+rvs_provider = 28283
+rvs_customer = 7738
+att_announcer = 59162
+att_source = 150627
+rvs_p_ori_tg = 171
+rvs_c_ori_tg = 400
+has clique = False
+att len: 1
+att ori: ('7738', '28283', '-1', 4)
+att successful: True
+diff set len: 16
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [8, 7, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 17451
+att_announcer = 262197
+att_source = 262171
+rvs_p_ori_tg = 95
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('17451', '13335', '-1', 4)
+att successful: True
+diff set len: 12
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 5, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 28210
+att_announcer = 58453
+att_source = 138915
+rvs_p_ori_tg = 41
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('28210', '13335', '-1', 4)
+att successful: True
+diff set len: 11
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 5, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 51375
+att_announcer = 3212
+att_source = 25467
+rvs_p_ori_tg = 107
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('51375', '13335', '-1', 4)
+att successful: True
+diff set len: 13
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [10, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 63526
+att_announcer = 9002
+att_source = 215419
+rvs_p_ori_tg = 9
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('63526', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 9583
+rvs_customer = 7473
+att_announcer = 4637
+att_source = 55821
+rvs_p_ori_tg = 354
+rvs_c_ori_tg = 289
+has clique = False
+att len: 39
+att ori: ('7473', '9583', '-1', 2)
+att successful: True
+diff set len: 180
+Difference: 0.03%
+other influenced rel len: 84
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [83, 13, 1, 2]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 15802
+att_announcer = 14840
+att_source = 270697
+rvs_p_ori_tg = 222
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('15802', '13335', '-1', 4)
+att successful: True
+diff set len: 11
+Difference: 0.00%
+other influenced rel len: 4
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 18809
+att_announcer = 3292
+att_source = 48854
+rvs_p_ori_tg = 7
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('18809', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 9304
+rvs_customer = 1273
+att_announcer = 394684
+att_source = 52337
+rvs_p_ori_tg = 270
+rvs_c_ori_tg = 759
+has clique = False
+att len: 1
+att ori: ('1273', '9304', '-1', 4)
+att successful: True
+diff set len: 151
+Difference: 0.03%
+other influenced rel len: 114
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [8, 31, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 45204
+att_announcer = 262352
+att_source = 265171
+rvs_p_ori_tg = 36
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('45204', '13335', '-1', 4)
+att successful: True
+diff set len: 13
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [8, 5, 0, 1]
+
+----ATT----
+rvs_provider = 52025
+rvs_customer = 56655
+att_announcer = 42337
+att_source = 51889
+rvs_p_ori_tg = 313
+rvs_c_ori_tg = 360
+has clique = False
+att len: 1
+att ori: ('56655', '52025', '-1', 4)
+att successful: True
+diff set len: 18
+Difference: 0.00%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 5, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 199995
+att_announcer = 18881
+att_source = 28295
+rvs_p_ori_tg = 296
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('199995', '13335', '-1', 4)
+att successful: True
+diff set len: 16
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 9, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 35432
+att_announcer = 15924
+att_source = 33830
+rvs_p_ori_tg = 181
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('35432', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 141731
+att_announcer = 38255
+att_source = 145968
+rvs_p_ori_tg = 113
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('141731', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 61568
+rvs_customer = 19905
+att_announcer = 9498
+att_source = 134910
+rvs_p_ori_tg = 54
+rvs_c_ori_tg = 552
+has clique = False
+att len: 1
+att ori: ('19905', '61568', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 5, 0, 1]
+
+----ATT----
+rvs_provider = 10796
+rvs_customer = 7843
+att_announcer = 55655
+att_source = 141966
+rvs_p_ori_tg = 70
+rvs_c_ori_tg = 196
+has clique = False
+att len: 1
+att ori: ('7843', '10796', '-1', 4)
+att successful: True
+diff set len: 178
+Difference: 0.03%
+other influenced rel len: 58
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [117, 5, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 33668
+att_announcer = 8374
+att_source = 198838
+rvs_p_ori_tg = 85
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('33668', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 7474
+rvs_customer = 2764
+att_announcer = 268296
+att_source = 268572
+rvs_p_ori_tg = 56
+rvs_c_ori_tg = 236
+has clique = False
+att len: 1
+att ori: ('2764', '7474', '-1', 4)
+att successful: True
+diff set len: 25
+Difference: 0.00%
+other influenced rel len: 10
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [12, 5, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 21277
+att_announcer = 43298
+att_source = 216246
+rvs_p_ori_tg = 32
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('21277', '13335', '-1', 4)
+att successful: True
+diff set len: 17
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [12, 5, 0, 1]
+
+----ATT----
+rvs_provider = 18403
+rvs_customer = 4229
+att_announcer = 7713
+att_source = 23949
+rvs_p_ori_tg = 262
+rvs_c_ori_tg = 331
+has clique = False
+att len: 1
+att ori: ('4229', '18403', '-1', 4)
+att successful: True
+diff set len: 24
+Difference: 0.00%
+other influenced rel len: 12
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [11, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 58682
+att_announcer = 4230
+att_source = 52552
+rvs_p_ori_tg = 195
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('58682', '13335', '-1', 4)
+att successful: True
+diff set len: 13
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [10, 3, 0, 1]
+
+----ATT----
+rvs_provider = 52468
+rvs_customer = 27947
+att_announcer = 262473
+att_source = 267303
+rvs_p_ori_tg = 51
+rvs_c_ori_tg = 520
+has clique = False
+att len: 1
+att ori: ('27947', '52468', '-1', 4)
+att successful: True
+diff set len: 8
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 5, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 271253
+att_announcer = 6939
+att_source = 38915
+rvs_p_ori_tg = 273
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('271253', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 48832
+att_announcer = 15353
+att_source = 215212
+rvs_p_ori_tg = 25
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('48832', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 20473
+rvs_customer = 52925
+att_announcer = 25159
+att_source = 51811
+rvs_p_ori_tg = 150
+rvs_c_ori_tg = 1336
+has clique = False
+att len: 1
+att ori: ('52925', '20473', '-1', 4)
+att successful: True
+diff set len: 6
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 1, 1]
+
+----ATT----
+rvs_provider = 9049
+rvs_customer = 3316
+att_announcer = 8220
+att_source = 204890
+rvs_p_ori_tg = 25
+rvs_c_ori_tg = 580
+has clique = False
+att len: 1
+att ori: ('3316', '9049', '-1', 4)
+att successful: True
+diff set len: 6
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 5, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 208407
+att_announcer = 8985
+att_source = 39688
+rvs_p_ori_tg = 5
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('208407', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 23752
+att_announcer = 6653
+att_source = 21803
+rvs_p_ori_tg = 9
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('23752', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 37035
+att_announcer = 52660
+att_source = 264867
+rvs_p_ori_tg = 39
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('37035', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 39386
+att_announcer = 24400
+att_source = 10212
+rvs_p_ori_tg = 290
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('39386', '13335', '-1', 4)
+att successful: True
+diff set len: 28
+Difference: 0.01%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [14, 7, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 9541
+att_announcer = 1221
+att_source = 3614
+rvs_p_ori_tg = 140
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('9541', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 8346
+att_announcer = 58291
+att_source = 207489
+rvs_p_ori_tg = 21
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('8346', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 3737
+att_announcer = 35699
+att_source = 202513
+rvs_p_ori_tg = 64
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('3737', '13335', '-1', 4)
+att successful: True
+diff set len: 11
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 5, 0, 1]
+
+----ATT----
+rvs_provider = 15830
+rvs_customer = 12735
+att_announcer = 12741
+att_source = 20553
+rvs_p_ori_tg = 93
+rvs_c_ori_tg = 3370
+has clique = False
+att len: 1
+att successful: False
+att line: ['12741 6939 34927 15830 12735 20553 ']
+att fail rel change: ('12735', '15830', '-1', 4), 
+diff set len: 1
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [0, 1, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 35900
+att_announcer = 600
+att_source = 40732
+rvs_p_ori_tg = 6
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('35900', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 262589
+rvs_customer = 22356
+att_announcer = 9002
+att_source = 202759
+rvs_p_ori_tg = 812
+rvs_c_ori_tg = 415
+has clique = False
+att len: 205
+att ori: ('22356', '262589', '-1', 2)
+att successful: True
+diff set len: 972
+Difference: 0.18%
+other influenced rel len: 508
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [429, 35, 1, 2]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 262761
+att_announcer = 6939
+att_source = 12593
+rvs_p_ori_tg = 95
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('262761', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 29357
+att_announcer = 8220
+att_source = 201284
+rvs_p_ori_tg = 17
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('29357', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 12252
+att_announcer = 10242
+att_source = 22534
+rvs_p_ori_tg = 13
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('12252', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 52025
+rvs_customer = 6204
+att_announcer = 34779
+att_source = 49636
+rvs_p_ori_tg = 260
+rvs_c_ori_tg = 360
+has clique = False
+att len: 1
+att ori: ('6204', '52025', '-1', 4)
+att successful: True
+diff set len: 17
+Difference: 0.00%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 5, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 33490
+att_announcer = 44407
+att_source = 207392
+rvs_p_ori_tg = 64
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('33490', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 9329
+att_announcer = 51164
+att_source = 210167
+rvs_p_ori_tg = 12
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('9329', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 52025
+rvs_customer = 7720
+att_announcer = 18403
+att_source = 149139
+rvs_p_ori_tg = 70
+rvs_c_ori_tg = 360
+has clique = False
+att len: 1
+att ori: ('7720', '52025', '-1', 4)
+att successful: True
+diff set len: 17
+Difference: 0.00%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 5, 0, 1]
+
+----ATT----
+rvs_provider = 32787
+rvs_customer = 57187
+att_announcer = 138840
+att_source = 153092
+rvs_p_ori_tg = 26
+rvs_c_ori_tg = 973
+has clique = False
+att len: 1
+att ori: ('57187', '32787', '-1', 4)
+att successful: True
+diff set len: 13
+Difference: 0.00%
+other influenced rel len: 6
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 5, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 58396
+att_announcer = 21559
+att_source = 393573
+rvs_p_ori_tg = 16
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('58396', '13335', '-1', 4)
+att successful: True
+diff set len: 13
+Difference: 0.00%
+other influenced rel len: 4
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 5, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 45916
+att_announcer = 11432
+att_source = 267081
+rvs_p_ori_tg = 18
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('45916', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 138840
+rvs_customer = 4229
+att_announcer = 29535
+att_source = 51390
+rvs_p_ori_tg = 262
+rvs_c_ori_tg = 257
+has clique = False
+att len: 9
+att ori: ('4229', '138840', '-1', 2)
+att successful: True
+diff set len: 40
+Difference: 0.01%
+other influenced rel len: 18
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [19, 3, 1, 2]
+
+----ATT----
+rvs_provider = 38158
+rvs_customer = 7473
+att_announcer = 43298
+att_source = 60726
+rvs_p_ori_tg = 354
+rvs_c_ori_tg = 384
+has clique = False
+att len: 1
+att ori: ('7473', '38158', '-1', 4)
+att successful: True
+diff set len: 19
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [10, 11, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 268976
+att_announcer = 42962
+att_source = 136796
+rvs_p_ori_tg = 47
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('268976', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 16010
+att_announcer = 138997
+att_source = 38254
+rvs_p_ori_tg = 32
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('16010', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 23201
+att_announcer = 12302
+att_source = 35413
+rvs_p_ori_tg = 26
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('23201', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 15830
+rvs_customer = 2516
+att_announcer = 3292
+att_source = 203373
+rvs_p_ori_tg = 310
+rvs_c_ori_tg = 3370
+has clique = False
+att len: 1
+att successful: False
+att line: ['3292 6939 34927 15830 2516 203373 ']
+att fail rel change: ('2516', '15830', '-1', 4), 
+diff set len: 1
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [0, 1, 0, 1]
+
+----ATT----
+rvs_provider = 262589
+rvs_customer = 52320
+att_announcer = 58057
+att_source = 214598
+rvs_p_ori_tg = 1794
+rvs_c_ori_tg = 415
+has clique = False
+att len: 696
+att ori: ('52320', '262589', '-1', 7)
+att successful: True
+diff set len: 3120
+Difference: 0.57%
+other influenced rel len: 1702
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [1415, 3, 1, 2]
+
+----ATT----
+rvs_provider = 55410
+rvs_customer = 55836
+att_announcer = 29049
+att_source = 201167
+rvs_p_ori_tg = 166
+rvs_c_ori_tg = 234
+has clique = False
+att len: 1
+att ori: ('55836', '55410', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 23674
+att_announcer = 4637
+att_source = 141190
+rvs_p_ori_tg = 10
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('23674', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 4455
+rvs_customer = 31216
+att_announcer = 15830
+att_source = 213050
+rvs_p_ori_tg = 130
+rvs_c_ori_tg = 2387
+has clique = False
+att len: 1
+att ori: ('31216', '4455', '-1', 4)
+att successful: True
+diff set len: 11
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [10, 3, 2, 1]
+
+----ATT----
+rvs_provider = 3549
+rvs_customer = 22284
+att_announcer = 52873
+att_source = 267344
+rvs_p_ori_tg = 7
+rvs_c_ori_tg = 576
+has clique = False
+att len: 1
+att ori: ('22284', '3549', '-1', 4)
+att successful: True
+diff set len: 14
+Difference: 0.00%
+other influenced rel len: 6
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [7, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 263779
+att_announcer = 273453
+att_source = 271651
+rvs_p_ori_tg = 7
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('263779', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 17754
+att_announcer = 6939
+att_source = 15165
+rvs_p_ori_tg = 17
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('17754', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 30999
+att_announcer = 39180
+att_source = 41332
+rvs_p_ori_tg = 133
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('30999', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 7660
+rvs_customer = 2516
+att_announcer = 3216
+att_source = 61372
+rvs_p_ori_tg = 310
+rvs_c_ori_tg = 282
+has clique = False
+att len: 21
+att ori: ('2516', '7660', '-1', 2)
+att successful: True
+diff set len: 551
+Difference: 0.10%
+other influenced rel len: 394
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [56, 101, 1, 2]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 49800
+att_announcer = 47605
+att_source = 201587
+rvs_p_ori_tg = 171
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('49800', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 812
+rvs_customer = 40028
+att_announcer = 2200
+att_source = 1936
+rvs_p_ori_tg = 20
+rvs_c_ori_tg = 230
+has clique = False
+att len: 1
+att ori: ('40028', '812', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 12735
+att_announcer = 140951
+att_source = 151828
+rvs_p_ori_tg = 93
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('12735', '13335', '-1', 4)
+att successful: True
+diff set len: 13
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [8, 5, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 266201
+att_announcer = 16316
+att_source = 33896
+rvs_p_ori_tg = 66
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('266201', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 52468
+rvs_customer = 270052
+att_announcer = 147168
+att_source = 23679
+rvs_p_ori_tg = 39
+rvs_c_ori_tg = 520
+has clique = False
+att len: 1
+att ori: ('270052', '52468', '-1', 4)
+att successful: True
+diff set len: 8
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 5, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 8781
+att_announcer = 1820
+att_source = 28724
+rvs_p_ori_tg = 106
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('8781', '13335', '-1', 4)
+att successful: True
+diff set len: 15
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [10, 5, 0, 1]
+
+----ATT----
+rvs_provider = 32787
+rvs_customer = 8966
+att_announcer = 24748
+att_source = 39120
+rvs_p_ori_tg = 591
+rvs_c_ori_tg = 973
+has clique = False
+att len: 1
+att ori: ('8966', '32787', '-1', 4)
+att successful: True
+diff set len: 12
+Difference: 0.00%
+other influenced rel len: 6
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 4, 0, 2]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 52228
+att_announcer = 44185
+att_source = 48304
+rvs_p_ori_tg = 5
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('52228', '13335', '-1', 4)
+att successful: True
+diff set len: 11
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [8, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 35753
+att_announcer = 53449
+att_source = 22263
+rvs_p_ori_tg = 211
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('35753', '13335', '-1', 4)
+att successful: True
+diff set len: 16
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [12, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 59318
+att_announcer = 9063
+att_source = 208484
+rvs_p_ori_tg = 122
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('59318', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 9049
+rvs_customer = 13094
+att_announcer = 52468
+att_source = 28461
+rvs_p_ori_tg = 69
+rvs_c_ori_tg = 580
+has clique = False
+att len: 1
+att ori: ('13094', '9049', '-1', 5)
+att successful: True
+diff set len: 142
+Difference: 0.03%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 139, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 139901
+att_announcer = 3326
+att_source = 56716
+rvs_p_ori_tg = 188
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('139901', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 40786
+att_announcer = 23650
+att_source = 140290
+rvs_p_ori_tg = 5
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('40786', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 28283
+rvs_customer = 6057
+att_announcer = 39392
+att_source = 51744
+rvs_p_ori_tg = 191
+rvs_c_ori_tg = 400
+has clique = False
+att len: 1
+att ori: ('6057', '28283', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [8, 3, 0, 1]
+
+----ATT----
+rvs_provider = 58717
+rvs_customer = 58453
+att_announcer = 263073
+att_source = 264874
+rvs_p_ori_tg = 673
+rvs_c_ori_tg = 554
+has clique = False
+att len: 66
+att ori: ('58453', '58717', '-1', 2)
+att successful: True
+diff set len: 290
+Difference: 0.05%
+other influenced rel len: 150
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [132, 7, 2, 2]
+
+----ATT----
+rvs_provider = 61568
+rvs_customer = 1031
+att_announcer = 60330
+att_source = 44272
+rvs_p_ori_tg = 225
+rvs_c_ori_tg = 552
+has clique = False
+att len: 1
+att ori: ('1031', '61568', '-1', 4)
+att successful: True
+diff set len: 26
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 21, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 8529
+att_announcer = 34927
+att_source = 213092
+rvs_p_ori_tg = 233
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('8529', '13335', '-1', 4)
+att successful: True
+diff set len: 35
+Difference: 0.01%
+other influenced rel len: 6
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [26, 5, 0, 1]
+
+----ATT----
+rvs_provider = 4800
+rvs_customer = 58453
+att_announcer = 8359
+att_source = 205412
+rvs_p_ori_tg = 673
+rvs_c_ori_tg = 397
+has clique = False
+att len: 145
+att ori: ('58453', '4800', '-1', 2)
+att successful: True
+diff set len: 647
+Difference: 0.12%
+other influenced rel len: 350
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [292, 5, 1, 2]
+
+----ATT----
+rvs_provider = 52025
+rvs_customer = 34927
+att_announcer = 62081
+att_source = 199319
+rvs_p_ori_tg = 2446
+rvs_c_ori_tg = 360
+has clique = False
+att len: 1050
+att ori: ('34927', '52025', '-1', 2)
+att successful: True
+diff set len: 5111
+Difference: 0.94%
+other influenced rel len: 2590
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [2512, 9, 1, 2]
+
+----ATT----
+rvs_provider = 8717
+rvs_customer = 8447
+att_announcer = 29390
+att_source = 59570
+rvs_p_ori_tg = 274
+rvs_c_ori_tg = 310
+has clique = False
+att len: 1
+att ori: ('8447', '8717', '-1', 4)
+att successful: True
+diff set len: 22
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 19, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 27775
+att_announcer = 8364
+att_source = 39599
+rvs_p_ori_tg = 8
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('27775', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 7922
+att_announcer = 39686
+att_source = 35350
+rvs_p_ori_tg = 197
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('7922', '13335', '-1', 4)
+att successful: True
+diff set len: 37
+Difference: 0.01%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [26, 11, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 33489
+att_announcer = 3249
+att_source = 204411
+rvs_p_ori_tg = 24
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('33489', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 139009
+rvs_customer = 10075
+att_announcer = 4775
+att_source = 24179
+rvs_p_ori_tg = 205
+rvs_c_ori_tg = 229
+has clique = False
+att len: 1
+att ori: ('10075', '139009', '-1', 4)
+att successful: True
+diff set len: 6
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 30986
+att_announcer = 10430
+att_source = 3935
+rvs_p_ori_tg = 7
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('30986', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 20115
+rvs_customer = 12208
+att_announcer = 12849
+att_source = 14778
+rvs_p_ori_tg = 7
+rvs_c_ori_tg = 259
+has clique = False
+att len: 1
+att ori: ('12208', '20115', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 37002
+att_announcer = 205209
+att_source = 50865
+rvs_p_ori_tg = 39
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('37002', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 138754
+att_announcer = 16097
+att_source = 206240
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('138754', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 327899
+att_announcer = 7474
+att_source = 138180
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('327899', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 10118
+att_announcer = 10429
+att_source = 28177
+rvs_p_ori_tg = 31
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('10118', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 57293
+att_announcer = 10796
+att_source = 17068
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('57293', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 24432
+att_announcer = 62081
+att_source = 201036
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('24432', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 203522
+att_announcer = 196695
+att_source = 209773
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('203522', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 27814
+att_announcer = 9002
+att_source = 199524
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('27814', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 206206
+att_announcer = 55002
+att_source = 18434
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('206206', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 28573
+att_announcer = 263086
+att_source = 266964
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('28573', '13335', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 1, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 272806
+att_announcer = 52025
+att_source = 852
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('272806', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 2, 1]
+
+----ATT----
+rvs_provider = 577
+rvs_customer = 3359
+att_announcer = 208972
+att_source = 62425
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 322
+has clique = False
+att len: 1
+att ori: ('3359', '577', '-1', 4)
+att successful: True
+diff set len: 11
+Difference: 0.00%
+other influenced rel len: 4
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 43268
+att_announcer = 52554
+att_source = 263260
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('43268', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13335
+rvs_customer = 51684
+att_announcer = 62887
+att_source = 62646
+rvs_p_ori_tg = 6
+rvs_c_ori_tg = 1046
+has clique = False
+att len: 1
+att ori: ('51684', '13335', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 3, 0, 1]
+
+----ATT----
+rvs_provider = 7713
+rvs_customer = 29390
+att_announcer = 1221
+att_source = 199524
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 714
+has clique = False
+att len: 1
+att ori: ('29390', '7713', '-1', 4)
+att successful: True
+diff set len: 23
+Difference: 0.00%
+other influenced rel len: 4
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [10, 10, 1, 0]
+
+----ATT----
+rvs_provider = 20485
+rvs_customer = 29390
+att_announcer = 8359
+att_source = 29497
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 1472
+has clique = False
+att len: 1
+att ori: ('29390', '20485', '-1', 4)
+att successful: True
+diff set len: 11
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 7, 0, 1]
+
+----ATT----
+rvs_provider = 12552
+rvs_customer = 29390
+att_announcer = 2116
+att_source = 199990
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 1799
+has clique = False
+att len: 1
+att ori: ('29390', '12552', '-1', 4)
+att successful: True
+diff set len: 135
+Difference: 0.02%
+other influenced rel len: 98
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [32, 7, 0, 1]
+
+----ATT----
+rvs_provider = 3223
+rvs_customer = 29390
+att_announcer = 35471
+att_source = 44667
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 400
+has clique = False
+att len: 1
+att ori: ('29390', '3223', '-1', 4)
+att successful: True
+diff set len: 18
+Difference: 0.00%
+other influenced rel len: 6
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 7, 1, 1]
+
+----ATT----
+rvs_provider = 262663
+rvs_customer = 269301
+att_announcer = 16397
+att_source = 13360
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 20
+has clique = False
+att len: 1
+att ori: ('269301', '262663', '-1', 4)
+att successful: True
+diff set len: 7
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [5, 3, 1, 1]
+
+----ATT----
+rvs_provider = 50973
+rvs_customer = 197706
+att_announcer = 2497
+att_source = 131896
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 13
+has clique = False
+att len: 2
+att ori: ('197706', '50973', '-1', 4)
+att successful: True
+diff set len: 12
+Difference: 0.00%
+other influenced rel len: 4
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [5, 3, 1, 2]
+
+----ATT----
+rvs_provider = 139057
+rvs_customer = 206206
+att_announcer = 34927
+att_source = 215216
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 42
+has clique = False
+att len: 1
+att ori: ('206206', '139057', '-1', 4)
+att successful: True
+diff set len: 7
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 5, 0, 1]
+
+----ATT----
+rvs_provider = 49353
+rvs_customer = 16030
+att_announcer = 61832
+att_source = 267326
+rvs_p_ori_tg = 11
+rvs_c_ori_tg = 17
+has clique = False
+att len: 4
+att ori: ('16030', '49353', '-1', 4)
+att successful: True
+diff set len: 18
+Difference: 0.00%
+other influenced rel len: 6
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [9, 3, 1, 2]
+
+----ATT----
+rvs_provider = 32595
+rvs_customer = 151188
+att_announcer = 9886
+att_source = 49187
+rvs_p_ori_tg = 10
+rvs_c_ori_tg = 13
+has clique = False
+att len: 5
+att ori: ('151188', '32595', '-1', 4)
+att successful: True
+diff set len: 34
+Difference: 0.01%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [23, 3, 1, 2]
+
+----ATT----
+rvs_provider = 3316
+rvs_customer = 5568
+att_announcer = 271387
+att_source = 267657
+rvs_p_ori_tg = 16
+rvs_c_ori_tg = 25
+has clique = False
+att len: 2
+att ori: ('5568', '3316', '-1', 4)
+att successful: True
+diff set len: 14
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [9, 3, 1, 2]
+
+----ATT----
+rvs_provider = 13119
+rvs_customer = 8286
+att_announcer = 20473
+att_source = 9197
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 32
+has clique = False
+att len: 1
+att ori: ('8286', '13119', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 4775
+rvs_customer = 18392
+att_announcer = 30036
+att_source = 36358
+rvs_p_ori_tg = 10
+rvs_c_ori_tg = 392
+has clique = False
+att len: 1
+att ori: ('18392', '4775', '-1', 5)
+att successful: True
+diff set len: 31
+Difference: 0.01%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [12, 19, 0, 1]
+
+----ATT----
+rvs_provider = 262663
+rvs_customer = 271564
+att_announcer = 3597
+att_source = 4270
+rvs_p_ori_tg = 5
+rvs_c_ori_tg = 20
+has clique = False
+att len: 1
+att ori: ('271564', '262663', '-1', 4)
+att successful: True
+diff set len: 7
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [5, 3, 1, 1]
+
+----ATT----
+rvs_provider = 51790
+rvs_customer = 41828
+att_announcer = 270161
+att_source = 28523
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 15
+has clique = False
+att len: 1
+att ori: ('41828', '51790', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 1, 1]
+
+----ATT----
+rvs_provider = 16866
+rvs_customer = 36483
+att_announcer = 5610
+att_source = 203411
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 6
+has clique = False
+att len: 5
+att ori: ('36483', '16866', '-1', 4)
+att successful: True
+diff set len: 22
+Difference: 0.00%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [11, 3, 1, 2]
+
+----ATT----
+rvs_provider = 12844
+rvs_customer = 5410
+att_announcer = 30844
+att_source = 328535
+rvs_p_ori_tg = 76
+rvs_c_ori_tg = 12
+has clique = False
+att len: 39
+att ori: ('5410', '12844', '-1', 2)
+att successful: True
+diff set len: 192
+Difference: 0.04%
+other influenced rel len: 88
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [101, 3, 1, 2]
+
+----ATT----
+rvs_provider = 135409
+rvs_customer = 136888
+att_announcer = 29614
+att_source = 328076
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 24
+has clique = False
+att len: 1
+att ori: ('136888', '135409', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 1, 1]
+
+----ATT----
+rvs_provider = 131418
+rvs_customer = 135947
+att_announcer = 17676
+att_source = 55376
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 10
+has clique = False
+att len: 4
+att ori: ('135947', '131418', '-1', 4)
+att successful: True
+diff set len: 22
+Difference: 0.00%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [11, 3, 1, 2]
+
+----ATT----
+rvs_provider = 134687
+rvs_customer = 139749
+att_announcer = 37061
+att_source = 328380
+rvs_p_ori_tg = 22
+rvs_c_ori_tg = 4
+has clique = False
+att len: 16
+att ori: ('139749', '134687', '-1', 5)
+att successful: True
+diff set len: 113
+Difference: 0.02%
+other influenced rel len: 32
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [35, 45, 2, 2]
+
+----ATT----
+rvs_provider = 20940
+rvs_customer = 204979
+att_announcer = 4540
+att_source = 398400
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 456
+has clique = False
+att len: 1
+att ori: ('204979', '20940', '-1', 4)
+att successful: True
+diff set len: 3
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [2, 3, 0, 1]
+
+----ATT----
+rvs_provider = 20940
+rvs_customer = 210834
+att_announcer = 4455
+att_source = 208035
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 456
+has clique = False
+att len: 1
+att ori: ('210834', '20940', '-1', 4)
+att successful: True
+diff set len: 3
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [2, 3, 0, 1]
+
+----ATT----
+rvs_provider = 43205
+rvs_customer = 211288
+att_announcer = 267464
+att_source = 268960
+rvs_p_ori_tg = 53
+rvs_c_ori_tg = 17
+has clique = False
+att len: 25
+att ori: ('211288', '43205', '-1', 2)
+att successful: True
+diff set len: 147
+Difference: 0.03%
+other influenced rel len: 80
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [54, 13, 1, 2]
+
+----ATT----
+rvs_provider = 27064
+rvs_customer = 724
+att_announcer = 137409
+att_source = 58955
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 71
+has clique = False
+att len: 1
+att ori: ('724', '27064', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 8100
+rvs_customer = 7393
+att_announcer = 26479
+att_source = 33116
+rvs_p_ori_tg = 8
+rvs_c_ori_tg = 78
+has clique = False
+att len: 1
+att ori: ('7393', '8100', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 41847
+rvs_customer = 59816
+att_announcer = 135872
+att_source = 141560
+rvs_p_ori_tg = 7
+rvs_c_ori_tg = 35
+has clique = False
+att len: 1
+att ori: ('59816', '41847', '-1', 4)
+att successful: True
+diff set len: 6
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 1, 1]
+
+----ATT----
+rvs_provider = 44477
+rvs_customer = 142113
+att_announcer = 11562
+att_source = 11694
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 55
+has clique = False
+att len: 1
+att ori: ('142113', '44477', '-1', 4)
+att successful: True
+diff set len: 6
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 1, 1]
+
+----ATT----
+rvs_provider = 136052
+rvs_customer = 138608
+att_announcer = 13536
+att_source = 6056
+rvs_p_ori_tg = 6
+rvs_c_ori_tg = 7
+has clique = False
+att len: 6
+att ori: ('138608', '136052', '-1', 4)
+att successful: True
+diff set len: 40
+Difference: 0.01%
+other influenced rel len: 16
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [21, 3, 1, 2]
+
+----ATT----
+rvs_provider = 24534
+rvs_customer = 63516
+att_announcer = 38255
+att_source = 145982
+rvs_p_ori_tg = 37
+rvs_c_ori_tg = 61
+has clique = False
+att len: 1
+att ori: ('63516', '24534', '-1', 5)
+att successful: True
+diff set len: 77
+Difference: 0.01%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 75, 1, 1]
+
+----ATT----
+rvs_provider = 401104
+rvs_customer = 62467
+att_announcer = 8220
+att_source = 3297
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 6
+has clique = False
+att len: 5
+att ori: ('62467', '401104', '-1', 4)
+att successful: True
+diff set len: 32
+Difference: 0.01%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [21, 3, 1, 2]
+
+----ATT----
+rvs_provider = 36913
+rvs_customer = 37294
+att_announcer = 38255
+att_source = 144070
+rvs_p_ori_tg = 5
+rvs_c_ori_tg = 6
+has clique = False
+att len: 6
+att ori: ('37294', '36913', '-1', 4)
+att successful: True
+diff set len: 39
+Difference: 0.01%
+other influenced rel len: 12
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [23, 3, 2, 2]
+
+----ATT----
+rvs_provider = 52875
+rvs_customer = 263946
+att_announcer = 4230
+att_source = 268147
+rvs_p_ori_tg = 9
+rvs_c_ori_tg = 4
+has clique = False
+att len: 9
+att ori: ('263946', '52875', '-1', 2)
+att successful: True
+diff set len: 40
+Difference: 0.01%
+other influenced rel len: 16
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [21, 3, 1, 2]
+
+----ATT----
+rvs_provider = 11158
+rvs_customer = 19806
+att_announcer = 46887
+att_source = 33239
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 8
+has clique = False
+att len: 4
+att ori: ('19806', '11158', '-1', 4)
+att successful: True
+diff set len: 25
+Difference: 0.00%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [13, 3, 2, 2]
+
+----ATT----
+rvs_provider = 10753
+rvs_customer = 272161
+att_announcer = 39184
+att_source = 199702
+rvs_p_ori_tg = 35
+rvs_c_ori_tg = 56
+has clique = False
+att len: 1
+att ori: ('272161', '10753', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 25818
+rvs_customer = 37672
+att_announcer = 8751
+att_source = 214402
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 169
+has clique = False
+att len: 1
+att ori: ('37672', '25818', '-1', 4)
+att successful: True
+diff set len: 6
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 1, 1]
+
+----ATT----
+rvs_provider = 19528
+rvs_customer = 11739
+att_announcer = 57152
+att_source = 203259
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 6
+has clique = False
+att len: 6
+att ori: ('11739', '19528', '-1', 4)
+att successful: True
+diff set len: 35
+Difference: 0.01%
+other influenced rel len: 18
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [13, 3, 2, 2]
+
+----ATT----
+rvs_provider = 42652
+rvs_customer = 8899
+att_announcer = 12389
+att_source = 60635
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 126
+has clique = False
+att len: 1
+att ori: ('8899', '42652', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [8, 3, 0, 1]
+
+----ATT----
+rvs_provider = 17806
+rvs_customer = 58778
+att_announcer = 55836
+att_source = 137611
+rvs_p_ori_tg = 6
+rvs_c_ori_tg = 60
+has clique = False
+att len: 1
+att ori: ('58778', '17806', '-1', 4)
+att successful: True
+diff set len: 7
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [5, 3, 1, 1]
+
+----ATT----
+rvs_provider = 45298
+rvs_customer = 9251
+att_announcer = 35753
+att_source = 42333
+rvs_p_ori_tg = 6
+rvs_c_ori_tg = 10
+has clique = False
+att len: 5
+att ori: ('9251', '45298', '-1', 4)
+att successful: True
+diff set len: 26
+Difference: 0.00%
+other influenced rel len: 10
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [13, 3, 1, 2]
+
+----ATT----
+rvs_provider = 15562
+rvs_customer = 206238
+att_announcer = 45147
+att_source = 149749
+rvs_p_ori_tg = 11
+rvs_c_ori_tg = 6
+has clique = False
+att len: 9
+att ori: ('206238', '15562', '-1', 2)
+att successful: True
+diff set len: 42
+Difference: 0.01%
+other influenced rel len: 20
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [19, 3, 1, 2]
+
+----ATT----
+rvs_provider = 24413
+rvs_customer = 38340
+att_announcer = 9049
+att_source = 198755
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 6
+has clique = False
+att len: 5
+att ori: ('38340', '24413', '-1', 4)
+att successful: True
+diff set len: 22
+Difference: 0.00%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [11, 3, 1, 2]
+
+----ATT----
+rvs_provider = 137184
+rvs_customer = 137990
+att_announcer = 29075
+att_source = 197465
+rvs_p_ori_tg = 138
+rvs_c_ori_tg = 37
+has clique = False
+att len: 57
+att ori: ('137990', '137184', '-1', 2)
+att successful: True
+diff set len: 306
+Difference: 0.06%
+other influenced rel len: 134
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [167, 5, 1, 2]
+
+----ATT----
+rvs_provider = 5488
+rvs_customer = 5432
+att_announcer = 20764
+att_source = 15378
+rvs_p_ori_tg = 11
+rvs_c_ori_tg = 33
+has clique = False
+att len: 1
+att ori: ('5432', '5488', '-1', 4)
+att successful: True
+diff set len: 70
+Difference: 0.01%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [67, 3, 0, 1]
+
+----ATT----
+rvs_provider = 262663
+rvs_customer = 269036
+att_announcer = 4775
+att_source = 132199
+rvs_p_ori_tg = 25
+rvs_c_ori_tg = 20
+has clique = False
+att len: 9
+att ori: ('269036', '262663', '-1', 2)
+att successful: True
+diff set len: 72
+Difference: 0.01%
+other influenced rel len: 18
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [51, 3, 1, 2]
+
+----ATT----
+rvs_provider = 263508
+rvs_customer = 53225
+att_announcer = 269497
+att_source = 270783
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 22
+has clique = False
+att len: 1
+att ori: ('53225', '263508', '-1', 4)
+att successful: True
+diff set len: 7
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 5, 1, 1]
+
+----ATT----
+rvs_provider = 11492
+rvs_customer = 40349
+att_announcer = 34984
+att_source = 60659
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 52
+has clique = False
+att len: 1
+att ori: ('40349', '11492', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 1, 1]
+
+----ATT----
+rvs_provider = 269589
+rvs_customer = 262521
+att_announcer = 33652
+att_source = 10844
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 10
+has clique = False
+att len: 3
+att ori: ('262521', '269589', '-1', 4)
+att successful: True
+diff set len: 19
+Difference: 0.00%
+other influenced rel len: 6
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [9, 3, 2, 2]
+
+----ATT----
+rvs_provider = 268314
+rvs_customer = 268101
+att_announcer = 17222
+att_source = 274607
+rvs_p_ori_tg = 5
+rvs_c_ori_tg = 28
+has clique = False
+att len: 1
+att ori: ('268101', '268314', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 12008
+rvs_customer = 30371
+att_announcer = 62
+att_source = 62872
+rvs_p_ori_tg = 10
+rvs_c_ori_tg = 39
+has clique = False
+att len: 1
+att ori: ('30371', '12008', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 18747
+rvs_customer = 7087
+att_announcer = 134143
+att_source = 152097
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 37
+has clique = False
+att len: 1
+att ori: ('7087', '18747', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 15133
+rvs_customer = 211288
+att_announcer = 52361
+att_source = 264857
+rvs_p_ori_tg = 53
+rvs_c_ori_tg = 43
+has clique = False
+att len: 12
+att ori: ('211288', '15133', '-1', 2)
+att successful: True
+diff set len: 82
+Difference: 0.02%
+other influenced rel len: 38
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [30, 13, 2, 2]
+
+----ATT----
+rvs_provider = 139382
+rvs_customer = 141139
+att_announcer = 133767
+att_source = 35039
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 14
+has clique = False
+att len: 1
+att ori: ('141139', '139382', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 1, 1]
+
+----ATT----
+rvs_provider = 42473
+rvs_customer = 131866
+att_announcer = 12389
+att_source = 20946
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 211
+has clique = False
+att len: 1
+att ori: ('131866', '42473', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 0, 1]
+
+----ATT----
+rvs_provider = 23764
+rvs_customer = 55518
+att_announcer = 29226
+att_source = 51444
+rvs_p_ori_tg = 39
+rvs_c_ori_tg = 649
+has clique = False
+att len: 1
+att ori: ('55518', '23764', '-1', 5)
+att successful: True
+diff set len: 91
+Difference: 0.02%
+other influenced rel len: 10
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 79, 0, 1]
+
+----ATT----
+rvs_provider = 64123
+rvs_customer = 266777
+att_announcer = 48858
+att_source = 52175
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 10
+has clique = False
+att len: 3
+att ori: ('266777', '64123', '-1', 4)
+att successful: True
+diff set len: 284
+Difference: 0.05%
+other influenced rel len: 260
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [21, 3, 1, 2]
+
+----ATT----
+rvs_provider = 264386
+rvs_customer = 61657
+att_announcer = 8245
+att_source = 39460
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 9
+has clique = False
+att len: 4
+att ori: ('61657', '264386', '-1', 4)
+att successful: True
+diff set len: 26
+Difference: 0.00%
+other influenced rel len: 12
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [11, 3, 1, 2]
+
+----ATT----
+rvs_provider = 263395
+rvs_customer = 52781
+att_announcer = 577
+att_source = 2579
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 15
+has clique = False
+att len: 1
+att ori: ('52781', '263395', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 0, 1]
+
+----ATT----
+rvs_provider = 13979
+rvs_customer = 30016
+att_announcer = 268235
+att_source = 268474
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 11
+has clique = False
+att len: 2
+att ori: ('30016', '13979', '-1', 4)
+att successful: True
+diff set len: 13
+Difference: 0.00%
+other influenced rel len: 4
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [5, 3, 2, 2]
+
+----ATT----
+rvs_provider = 262663
+rvs_customer = 15
+att_announcer = 6661
+att_source = 11245
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 20
+has clique = False
+att len: 1
+att ori: ('15', '262663', '-1', 4)
+att successful: True
+diff set len: 8
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [5, 5, 0, 1]
+
+----ATT----
+rvs_provider = 2
+rvs_customer = 34
+att_announcer = 328107
+att_source = 328899
+rvs_p_ori_tg = 5
+rvs_c_ori_tg = 8
+has clique = False
+att len: 5
+att ori: ('34', '2', '-1', 4)
+att successful: True
+diff set len: 23
+Difference: 0.00%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [11, 3, 2, 2]
+
+----ATT----
+rvs_provider = 24138
+rvs_customer = 9394
+att_announcer = 43426
+att_source = 57944
+rvs_p_ori_tg = 5
+rvs_c_ori_tg = 11
+has clique = False
+att len: 4
+att ori: ('9394', '24138', '-1', 4)
+att successful: True
+diff set len: 41
+Difference: 0.01%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [29, 3, 2, 2]
+
+----ATT----
+rvs_provider = 19551
+rvs_customer = 134078
+att_announcer = 4181
+att_source = 10788
+rvs_p_ori_tg = 9
+rvs_c_ori_tg = 453
+has clique = False
+att len: 1
+att ori: ('134078', '19551', '-1', 4)
+att successful: True
+diff set len: 11
+Difference: 0.00%
+other influenced rel len: 6
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 0, 1]
+
+----ATT----
+rvs_provider = 135341
+rvs_customer = 134424
+att_announcer = 46887
+att_source = 202154
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 4
+has clique = False
+att len: 6
+att ori: ('134424', '135341', '-1', 4)
+att successful: True
+diff set len: 33
+Difference: 0.01%
+other influenced rel len: 14
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 2, 2]
+
+----ATT----
+rvs_provider = 199524
+rvs_customer = 272037
+att_announcer = 2516
+att_source = 48951
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 357
+has clique = False
+att len: 1
+att ori: ('272037', '199524', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 0, 1]
+
+----ATT----
+rvs_provider = 20940
+rvs_customer = 27781
+att_announcer = 26801
+att_source = 27507
+rvs_p_ori_tg = 22
+rvs_c_ori_tg = 456
+has clique = False
+att len: 1
+att ori: ('27781', '20940', '-1', 4)
+att successful: True
+diff set len: 3
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [2, 3, 0, 1]
+
+----ATT----
+rvs_provider = 262663
+rvs_customer = 268544
+att_announcer = 35625
+att_source = 48613
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 20
+has clique = False
+att len: 1
+att ori: ('268544', '262663', '-1', 4)
+att successful: True
+diff set len: 6
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [5, 3, 0, 1]
+
+----ATT----
+rvs_provider = 28438
+rvs_customer = 265508
+att_announcer = 32505
+att_source = 46725
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 13
+has clique = False
+att len: 1
+att ori: ('265508', '28438', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 18450
+rvs_customer = 23470
+att_announcer = 11272
+att_source = 26949
+rvs_p_ori_tg = 44
+rvs_c_ori_tg = 63
+has clique = False
+att len: 1
+att ori: ('23470', '18450', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 23673
+rvs_customer = 9900
+att_announcer = 264969
+att_source = 28188
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 32
+has clique = False
+att len: 1
+att ori: ('9900', '23673', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 0, 1]
+
+----ATT----
+rvs_provider = 58055
+rvs_customer = 21310
+att_announcer = 9198
+att_source = 51340
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 6
+has clique = False
+att len: 6
+att ori: ('21310', '58055', '-1', 4)
+att successful: True
+diff set len: 26
+Difference: 0.00%
+other influenced rel len: 10
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [13, 3, 1, 2]
+
+----ATT----
+rvs_provider = 20940
+rvs_customer = 51225
+att_announcer = 263073
+att_source = 267510
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 456
+has clique = False
+att len: 1
+att ori: ('51225', '20940', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [2, 3, 1, 1]
+
+----ATT----
+rvs_provider = 34224
+rvs_customer = 211288
+att_announcer = 35280
+att_source = 61205
+rvs_p_ori_tg = 53
+rvs_c_ori_tg = 309
+has clique = False
+att len: 1
+att ori: ('211288', '34224', '-1', 4)
+att successful: True
+diff set len: 29
+Difference: 0.01%
+other influenced rel len: 16
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 9, 0, 1]
+
+----ATT----
+rvs_provider = 51162
+rvs_customer = 207446
+att_announcer = 6939
+att_source = 46632
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 7
+has clique = False
+att len: 5
+att ori: ('207446', '51162', '-1', 4)
+att successful: True
+diff set len: 25
+Difference: 0.00%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [13, 3, 2, 2]
+
+----ATT----
+rvs_provider = 203020
+rvs_customer = 47943
+att_announcer = 10089
+att_source = 135419
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 6
+has clique = False
+att len: 5
+att ori: ('47943', '203020', '-1', 4)
+att successful: True
+diff set len: 24
+Difference: 0.00%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [13, 3, 1, 2]
+
+----ATT----
+rvs_provider = 131111
+rvs_customer = 45295
+att_announcer = 266413
+att_source = 269251
+rvs_p_ori_tg = 115
+rvs_c_ori_tg = 56
+has clique = False
+att len: 36
+att ori: ('45295', '131111', '-1', 2)
+att successful: True
+diff set len: 165
+Difference: 0.03%
+other influenced rel len: 84
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [75, 3, 4, 2]
+
+----ATT----
+rvs_provider = 263725
+rvs_customer = 263686
+att_announcer = 30500
+att_source = 400833
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 8
+has clique = False
+att len: 5
+att ori: ('263686', '263725', '-1', 4)
+att successful: True
+diff set len: 24
+Difference: 0.00%
+other influenced rel len: 10
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [11, 3, 1, 2]
+
+----ATT----
+rvs_provider = 36063
+rvs_customer = 30404
+att_announcer = 7713
+att_source = 141943
+rvs_p_ori_tg = 22
+rvs_c_ori_tg = 4
+has clique = False
+att len: 16
+att ori: ('30404', '36063', '-1', 2)
+att successful: True
+diff set len: 76
+Difference: 0.01%
+other influenced rel len: 34
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [39, 3, 1, 2]
+
+----ATT----
+rvs_provider = 52328
+rvs_customer = 52399
+att_announcer = 38255
+att_source = 145838
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 8
+has clique = False
+att len: 4
+att ori: ('52399', '52328', '-1', 4)
+att successful: True
+diff set len: 21
+Difference: 0.00%
+other influenced rel len: 6
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [11, 3, 2, 2]
+
+----ATT----
+rvs_provider = 268314
+rvs_customer = 264897
+att_announcer = 8595
+att_source = 56477
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 28
+has clique = False
+att len: 1
+att ori: ('264897', '268314', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 58731
+rvs_customer = 58815
+att_announcer = 14051
+att_source = 63268
+rvs_p_ori_tg = 6
+rvs_c_ori_tg = 4
+has clique = False
+att len: 8
+att ori: ('58815', '58731', '-1', 2)
+att successful: True
+diff set len: 37
+Difference: 0.01%
+other influenced rel len: 16
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [17, 3, 2, 2]
+
+----ATT----
+rvs_provider = 57142
+rvs_customer = 212271
+att_announcer = 4713
+att_source = 20940
+rvs_p_ori_tg = 13
+rvs_c_ori_tg = 12
+has clique = False
+att len: 7
+att ori: ('212271', '57142', '-1', 2)
+att successful: True
+diff set len: 31
+Difference: 0.01%
+other influenced rel len: 12
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 2, 2]
+
+----ATT----
+rvs_provider = 52263
+rvs_customer = 262217
+att_announcer = 11096
+att_source = 26515
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 14
+has clique = False
+att len: 1
+att ori: ('262217', '52263', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 266192
+rvs_customer = 272221
+att_announcer = 202297
+att_source = 200299
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 30
+has clique = False
+att len: 1
+att ori: ('272221', '266192', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 266520
+rvs_customer = 264273
+att_announcer = 197103
+att_source = 268918
+rvs_p_ori_tg = 24
+rvs_c_ori_tg = 55
+has clique = False
+att len: 1
+att ori: ('264273', '266520', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 1, 1]
+
+----ATT----
+rvs_provider = 19551
+rvs_customer = 58815
+att_announcer = 31133
+att_source = 57396
+rvs_p_ori_tg = 6
+rvs_c_ori_tg = 453
+has clique = False
+att len: 1
+att ori: ('58815', '19551', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 4
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 0, 1]
+
+----ATT----
+rvs_provider = 11835
+rvs_customer = 266058
+att_announcer = 38740
+att_source = 138558
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 6
+has clique = False
+att len: 5
+att ori: ('266058', '11835', '-1', 4)
+att successful: True
+diff set len: 24
+Difference: 0.00%
+other influenced rel len: 10
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [11, 3, 1, 2]
+
+----ATT----
+rvs_provider = 265432
+rvs_customer = 270344
+att_announcer = 34927
+att_source = 212405
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 5
+has clique = False
+att len: 6
+att ori: ('270344', '265432', '-1', 4)
+att successful: True
+diff set len: 32
+Difference: 0.01%
+other influenced rel len: 14
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 1, 2]
+
+----ATT----
+rvs_provider = 23600
+rvs_customer = 9858
+att_announcer = 55720
+att_source = 131651
+rvs_p_ori_tg = 5
+rvs_c_ori_tg = 5
+has clique = False
+att len: 7
+att ori: ('9858', '23600', '-1', 4)
+att successful: True
+diff set len: 34
+Difference: 0.01%
+other influenced rel len: 14
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [17, 3, 1, 2]
+
+----ATT----
+rvs_provider = 28598
+rvs_customer = 262495
+att_announcer = 47176
+att_source = 25435
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 193
+has clique = False
+att len: 1
+att ori: ('262495', '28598', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 263625
+rvs_customer = 22177
+att_announcer = 577
+att_source = 396486
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 37
+has clique = False
+att len: 1
+att ori: ('22177', '263625', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 26415
+rvs_customer = 139140
+att_announcer = 4826
+att_source = 55707
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 229
+has clique = False
+att len: 1
+att ori: ('139140', '26415', '-1', 4)
+att successful: True
+diff set len: 9
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [8, 3, 0, 1]
+
+----ATT----
+rvs_provider = 23201
+rvs_customer = 28008
+att_announcer = 8262
+att_source = 198388
+rvs_p_ori_tg = 137
+rvs_c_ori_tg = 26
+has clique = False
+att len: 62
+att ori: ('28008', '23201', '-1', 2)
+att successful: True
+diff set len: 320
+Difference: 0.06%
+other influenced rel len: 146
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [171, 3, 1, 2]
+
+----ATT----
+rvs_provider = 38176
+rvs_customer = 47961
+att_announcer = 328842
+att_source = 327947
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 12
+has clique = False
+att len: 2
+att ori: ('47961', '38176', '-1', 4)
+att successful: True
+diff set len: 11
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [5, 3, 2, 2]
+
+----ATT----
+rvs_provider = 262485
+rvs_customer = 266196
+att_announcer = 31133
+att_source = 25592
+rvs_p_ori_tg = 7
+rvs_c_ori_tg = 16
+has clique = False
+att len: 2
+att ori: ('266196', '262485', '-1', 4)
+att successful: True
+diff set len: 15
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [10, 3, 1, 2]
+
+----ATT----
+rvs_provider = 267797
+rvs_customer = 267715
+att_announcer = 20764
+att_source = 62243
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 5
+has clique = False
+att len: 6
+att ori: ('267715', '267797', '-1', 4)
+att successful: True
+diff set len: 30
+Difference: 0.01%
+other influenced rel len: 12
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [13, 5, 1, 2]
+
+----ATT----
+rvs_provider = 17400
+rvs_customer = 36917
+att_announcer = 210220
+att_source = 197494
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 6
+has clique = False
+att len: 5
+att ori: ('36917', '17400', '-1', 4)
+att successful: True
+diff set len: 33
+Difference: 0.01%
+other influenced rel len: 10
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [19, 3, 2, 2]
+
+----ATT----
+rvs_provider = 45974
+rvs_customer = 151386
+att_announcer = 12418
+att_source = 210787
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 8
+has clique = False
+att len: 4
+att ori: ('151386', '45974', '-1', 4)
+att successful: True
+diff set len: 18
+Difference: 0.00%
+other influenced rel len: 6
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [9, 3, 1, 2]
+
+----ATT----
+rvs_provider = 31167
+rvs_customer = 209920
+att_announcer = 50928
+att_source = 42558
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 43
+has clique = False
+att len: 1
+att ori: ('209920', '31167', '-1', 4)
+att successful: True
+diff set len: 6
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 1, 1]
+
+----ATT----
+rvs_provider = 5065
+rvs_customer = 135377
+att_announcer = 13576
+att_source = 15157
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 4
+has clique = False
+att len: 6
+att ori: ('135377', '5065', '-1', 4)
+att successful: True
+diff set len: 28
+Difference: 0.01%
+other influenced rel len: 12
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [13, 3, 1, 2]
+
+----ATT----
+rvs_provider = 5666
+rvs_customer = 4913
+att_announcer = 35133
+att_source = 211041
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 5
+has clique = False
+att len: 6
+att ori: ('4913', '5666', '-1', 4)
+att successful: True
+diff set len: 34
+Difference: 0.01%
+other influenced rel len: 16
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 1, 2]
+
+----ATT----
+rvs_provider = 137095
+rvs_customer = 140132
+att_announcer = 2497
+att_source = 23763
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 6
+has clique = False
+att len: 5
+att ori: ('140132', '137095', '-1', 4)
+att successful: True
+diff set len: 32
+Difference: 0.01%
+other influenced rel len: 10
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [19, 3, 1, 2]
+
+----ATT----
+rvs_provider = 139609
+rvs_customer = 17559
+att_announcer = 268424
+att_source = 271514
+rvs_p_ori_tg = 28
+rvs_c_ori_tg = 28
+has clique = False
+att len: 7
+att ori: ('17559', '139609', '-1', 2)
+att successful: True
+diff set len: 39
+Difference: 0.01%
+other influenced rel len: 20
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 2, 2]
+
+----ATT----
+rvs_provider = 34358
+rvs_customer = 44043
+att_announcer = 5617
+att_source = 211340
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 6
+has clique = False
+att len: 5
+att ori: ('44043', '34358', '-1', 4)
+att successful: True
+diff set len: 25
+Difference: 0.00%
+other influenced rel len: 10
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [11, 3, 2, 2]
+
+----ATT----
+rvs_provider = 133199
+rvs_customer = 133861
+att_announcer = 46887
+att_source = 20078
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 15
+has clique = False
+att len: 1
+att ori: ('133861', '133199', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 1, 1]
+
+----ATT----
+rvs_provider = 267882
+rvs_customer = 52440
+att_announcer = 9038
+att_source = 60838
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 6
+has clique = False
+att len: 5
+att ori: ('52440', '267882', '-1', 4)
+att successful: True
+diff set len: 24
+Difference: 0.00%
+other influenced rel len: 10
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [11, 3, 1, 2]
+
+----ATT----
+rvs_provider = 58511
+rvs_customer = 29390
+att_announcer = 38255
+att_source = 144544
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 261
+has clique = False
+att len: 44
+att ori: ('29390', '58511', '-1', 4)
+att successful: True
+diff set len: 209
+Difference: 0.04%
+other influenced rel len: 108
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [91, 9, 2, 2]
+
+----ATT----
+rvs_provider = 12025
+rvs_customer = 395174
+att_announcer = 203971
+att_source = 204986
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 82
+has clique = False
+att len: 1
+att ori: ('395174', '12025', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 1, 1]
+
+----ATT----
+rvs_provider = 206264
+rvs_customer = 29390
+att_announcer = 265436
+att_source = 267029
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 136
+has clique = False
+att len: 107
+att ori: ('29390', '206264', '-1', 4)
+att successful: True
+diff set len: 499
+Difference: 0.09%
+other influenced rel len: 274
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [218, 7, 1, 2]
+
+----ATT----
+rvs_provider = 4775
+rvs_customer = 29390
+att_announcer = 13329
+att_source = 26760
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 392
+has clique = False
+att len: 1
+att ori: ('29390', '4775', '-1', 4)
+att successful: True
+diff set len: 15
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [10, 7, 0, 1]
+
+----ATT----
+rvs_provider = 17639
+rvs_customer = 29390
+att_announcer = 53115
+att_source = 270866
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 261
+has clique = False
+att len: 44
+att ori: ('29390', '17639', '-1', 4)
+att successful: True
+diff set len: 213
+Difference: 0.04%
+other influenced rel len: 116
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [89, 7, 2, 2]
+
+----ATT----
+rvs_provider = 8368
+rvs_customer = 29390
+att_announcer = 17995
+att_source = 149679
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 186
+has clique = False
+att len: 82
+att ori: ('29390', '8368', '-1', 4)
+att successful: True
+diff set len: 384
+Difference: 0.07%
+other influenced rel len: 210
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [166, 7, 2, 2]
+
+----ATT----
+rvs_provider = 15703
+rvs_customer = 29390
+att_announcer = 8437
+att_source = 39885
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 136
+has clique = False
+att len: 107
+att ori: ('29390', '15703', '-1', 4)
+att successful: True
+diff set len: 502
+Difference: 0.09%
+other influenced rel len: 272
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [222, 7, 2, 2]
+
+----ATT----
+rvs_provider = 10122
+rvs_customer = 29390
+att_announcer = 29838
+att_source = 22808
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 168
+has clique = False
+att len: 91
+att ori: ('29390', '10122', '-1', 4)
+att successful: True
+diff set len: 421
+Difference: 0.08%
+other influenced rel len: 216
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [196, 9, 1, 2]
+
+----ATT----
+rvs_provider = 37662
+rvs_customer = 29390
+att_announcer = 10429
+att_source = 61568
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 311
+has clique = False
+att len: 19
+att ori: ('29390', '37662', '-1', 4)
+att successful: True
+diff set len: 98
+Difference: 0.02%
+other influenced rel len: 44
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [42, 11, 2, 2]
+
+----ATT----
+rvs_provider = 50629
+rvs_customer = 29390
+att_announcer = 8416
+att_source = 51639
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 627
+has clique = False
+att len: 1
+att ori: ('29390', '50629', '-1', 4)
+att successful: True
+diff set len: 10
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 7, 1, 1]
+
+----ATT----
+rvs_provider = 13002
+rvs_customer = 29390
+att_announcer = 8764
+att_source = 61272
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 180
+has clique = False
+att len: 85
+att ori: ('29390', '13002', '-1', 4)
+att successful: True
+diff set len: 393
+Difference: 0.07%
+other influenced rel len: 212
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [172, 9, 1, 2]
+
+----ATT----
+rvs_provider = 39704
+rvs_customer = 29390
+att_announcer = 40160
+att_source = 14929
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 86
+has clique = False
+att len: 132
+att ori: ('29390', '39704', '-1', 4)
+att successful: True
+diff set len: 586
+Difference: 0.11%
+other influenced rel len: 312
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [266, 7, 2, 2]
+
+----ATT----
+rvs_provider = 58299
+rvs_customer = 29390
+att_announcer = 44477
+att_source = 207713
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 419
+has clique = False
+att len: 1
+att ori: ('29390', '58299', '-1', 4)
+att successful: True
+diff set len: 11
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 9, 0, 1]
+
+----ATT----
+rvs_provider = 7473
+rvs_customer = 4845
+att_announcer = 23947
+att_source = 142320
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 354
+has clique = False
+att len: 1
+att ori: ('4845', '7473', '-1', 4)
+att successful: True
+diff set len: 41
+Difference: 0.01%
+other influenced rel len: 36
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 0, 1]
+
+----ATT----
+rvs_provider = 45758
+rvs_customer = 29390
+att_announcer = 38255
+att_source = 144279
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 227
+has clique = False
+att len: 61
+att ori: ('29390', '45758', '-1', 4)
+att successful: True
+diff set len: 292
+Difference: 0.05%
+other influenced rel len: 152
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [132, 7, 2, 2]
+
+----ATT----
+rvs_provider = 8315
+rvs_customer = 29390
+att_announcer = 52468
+att_source = 268640
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 276
+has clique = False
+att len: 37
+att ori: ('29390', '8315', '-1', 4)
+att successful: True
+diff set len: 173
+Difference: 0.03%
+other influenced rel len: 88
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [78, 7, 1, 2]
+
+----ATT----
+rvs_provider = 12618
+rvs_customer = 8326
+att_announcer = 58717
+att_source = 136910
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 21
+has clique = False
+att len: 1
+att ori: ('8326', '12618', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 1031
+rvs_customer = 28652
+att_announcer = 23855
+att_source = 23864
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 225
+has clique = False
+att len: 1
+att ori: ('28652', '1031', '-1', 4)
+att successful: True
+diff set len: 21
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [18, 3, 0, 1]
+
+----ATT----
+rvs_provider = 8283
+rvs_customer = 29390
+att_announcer = 33965
+att_source = 47506
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 241
+has clique = False
+att len: 54
+att ori: ('29390', '8283', '-1', 4)
+att successful: True
+diff set len: 270
+Difference: 0.05%
+other influenced rel len: 128
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [135, 7, 1, 2]
+
+----ATT----
+rvs_provider = 37721
+rvs_customer = 29390
+att_announcer = 57304
+att_source = 21928
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 223
+has clique = False
+att len: 63
+att ori: ('29390', '37721', '-1', 4)
+att successful: True
+diff set len: 288
+Difference: 0.05%
+other influenced rel len: 150
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [131, 7, 1, 2]
+
+----ATT----
+rvs_provider = 41887
+rvs_customer = 29390
+att_announcer = 33491
+att_source = 36478
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 92
+has clique = False
+att len: 129
+att ori: ('29390', '41887', '-1', 4)
+att successful: True
+diff set len: 572
+Difference: 0.11%
+other influenced rel len: 300
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [264, 7, 2, 2]
+
+----ATT----
+rvs_provider = 13065
+rvs_customer = 9103
+att_announcer = 13739
+att_source = 14569
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 7
+has clique = False
+att len: 4
+att ori: ('9103', '13065', '-1', 4)
+att successful: True
+diff set len: 24
+Difference: 0.00%
+other influenced rel len: 12
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [9, 3, 1, 2]
+
+----ATT----
+rvs_provider = 43350
+rvs_customer = 29390
+att_announcer = 15924
+att_source = 51021
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 203
+has clique = False
+att len: 73
+att ori: ('29390', '43350', '-1', 4)
+att successful: True
+diff set len: 326
+Difference: 0.06%
+other influenced rel len: 166
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [152, 7, 2, 2]
+
+----ATT----
+rvs_provider = 29670
+rvs_customer = 29390
+att_announcer = 38255
+att_source = 146713
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 79
+has clique = False
+att len: 135
+att ori: ('29390', '29670', '-1', 4)
+att successful: True
+diff set len: 613
+Difference: 0.11%
+other influenced rel len: 326
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [275, 11, 2, 2]
+
+----ATT----
+rvs_provider = 32595
+rvs_customer = 48231
+att_announcer = 328788
+att_source = 800
+rvs_p_ori_tg = 9
+rvs_c_ori_tg = 13
+has clique = False
+att len: 5
+att ori: ('48231', '32595', '-1', 4)
+att successful: True
+diff set len: 37
+Difference: 0.01%
+other influenced rel len: 10
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [23, 3, 2, 2]
+
+----ATT----
+rvs_provider = 39642
+rvs_customer = 29390
+att_announcer = 8001
+att_source = 55171
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 153
+has clique = False
+att len: 98
+att ori: ('29390', '39642', '-1', 4)
+att successful: True
+diff set len: 481
+Difference: 0.09%
+other influenced rel len: 276
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [198, 7, 1, 2]
+
+----ATT----
+rvs_provider = 34927
+rvs_customer = 29390
+att_announcer = 393444
+att_source = 21779
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 2446
+has clique = False
+att len: 1
+att ori: ('29390', '34927', '-1', 4)
+att successful: True
+diff set len: 25
+Difference: 0.00%
+other influenced rel len: 10
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [10, 7, 0, 1]
+
+----ATT----
+rvs_provider = 8881
+rvs_customer = 29390
+att_announcer = 39737
+att_source = 25409
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 417
+has clique = False
+att len: 1
+att ori: ('29390', '8881', '-1', 4)
+att successful: True
+diff set len: 21
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [16, 7, 0, 1]
+
+----ATT----
+rvs_provider = 34779
+rvs_customer = 29390
+att_announcer = 61832
+att_source = 264932
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 228
+has clique = False
+att len: 61
+att ori: ('29390', '34779', '-1', 4)
+att successful: True
+diff set len: 270
+Difference: 0.05%
+other influenced rel len: 140
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [123, 7, 1, 2]
+
+----ATT----
+rvs_provider = 1103
+rvs_customer = 29390
+att_announcer = 4826
+att_source = 133863
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 565
+has clique = False
+att len: 1
+att ori: ('29390', '1103', '-1', 4)
+att successful: True
+diff set len: 13
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [8, 7, 0, 1]
+
+----ATT----
+rvs_provider = 200781
+rvs_customer = 29390
+att_announcer = 6939
+att_source = 4594
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 141
+has clique = False
+att len: 104
+att ori: ('29390', '200781', '-1', 4)
+att successful: True
+diff set len: 482
+Difference: 0.09%
+other influenced rel len: 264
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [210, 7, 2, 2]
+
+----ATT----
+rvs_provider = 20326
+rvs_customer = 29390
+att_announcer = 46887
+att_source = 33476
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 182
+has clique = False
+att len: 84
+att ori: ('29390', '20326', '-1', 4)
+att successful: True
+diff set len: 372
+Difference: 0.07%
+other influenced rel len: 191
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [171, 9, 2, 2]
+
+----ATT----
+rvs_provider = 21859
+rvs_customer = 29390
+att_announcer = 31287
+att_source = 211159
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 386
+has clique = False
+att len: 1
+att ori: ('29390', '21859', '-1', 4)
+att successful: True
+diff set len: 225
+Difference: 0.04%
+other influenced rel len: 168
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [24, 33, 2, 1]
+
+----ATT----
+rvs_provider = 36351
+rvs_customer = 29390
+att_announcer = 56899
+att_source = 212048
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 301
+has clique = False
+att len: 24
+att ori: ('29390', '36351', '-1', 4)
+att successful: True
+diff set len: 143
+Difference: 0.03%
+other influenced rel len: 58
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [56, 29, 1, 2]
+
+----ATT----
+rvs_provider = 265144
+rvs_customer = 268186
+att_announcer = 50581
+att_source = 16327
+rvs_p_ori_tg = 4
+rvs_c_ori_tg = 67
+has clique = False
+att len: 1
+att ori: ('268186', '265144', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 16796
+rvs_customer = 10965
+att_announcer = 12389
+att_source = 199377
+rvs_p_ori_tg = 5
+rvs_c_ori_tg = 7
+has clique = False
+att len: 6
+att ori: ('10965', '16796', '-1', 4)
+att successful: True
+diff set len: 28
+Difference: 0.01%
+other influenced rel len: 12
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [13, 3, 1, 2]
+
+----ATT----
+rvs_provider = 4657
+rvs_customer = 29390
+att_announcer = 45430
+att_source = 58930
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 622
+has clique = False
+att len: 1
+att ori: ('29390', '4657', '-1', 4)
+att successful: True
+diff set len: 13
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 9, 0, 1]
+
+----ATT----
+rvs_provider = 25084
+rvs_customer = 15373
+att_announcer = 31133
+att_source = 38917
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 17
+has clique = False
+att len: 1
+att ori: ('15373', '25084', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 24785
+rvs_customer = 29390
+att_announcer = 9730
+att_source = 150063
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 241
+has clique = False
+att len: 54
+att ori: ('29390', '24785', '-1', 4)
+att successful: True
+diff set len: 262
+Difference: 0.05%
+other influenced rel len: 138
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [116, 7, 2, 2]
+
+----ATT----
+rvs_provider = 197695
+rvs_customer = 49352
+att_announcer = 32787
+att_source = 54747
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 7
+has clique = False
+att len: 4
+att ori: ('49352', '197695', '-1', 4)
+att successful: True
+diff set len: 24
+Difference: 0.00%
+other influenced rel len: 6
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 1, 2]
+
+----ATT----
+rvs_provider = 58057
+rvs_customer = 39249
+att_announcer = 48347
+att_source = 49863
+rvs_p_ori_tg = 75
+rvs_c_ori_tg = 612
+has clique = False
+att len: 1
+att ori: ('39249', '58057', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 0, 1]
+
+----ATT----
+rvs_provider = 17451
+rvs_customer = 152435
+att_announcer = 9498
+att_source = 43009
+rvs_p_ori_tg = 7
+rvs_c_ori_tg = 95
+has clique = False
+att len: 1
+att ori: ('152435', '17451', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 15943
+rvs_customer = 29390
+att_announcer = 4766
+att_source = 38422
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 283
+has clique = False
+att len: 33
+att ori: ('29390', '15943', '-1', 4)
+att successful: True
+diff set len: 153
+Difference: 0.03%
+other influenced rel len: 78
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [68, 7, 1, 2]
+
+----ATT----
+rvs_provider = 31898
+rvs_customer = 29390
+att_announcer = 2116
+att_source = 208692
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 212
+has clique = False
+att len: 69
+att ori: ('29390', '31898', '-1', 4)
+att successful: True
+diff set len: 321
+Difference: 0.06%
+other influenced rel len: 154
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [152, 15, 1, 2]
+
+----ATT----
+rvs_provider = 28160
+rvs_customer = 270499
+att_announcer = 34927
+att_source = 398549
+rvs_p_ori_tg = 7
+rvs_c_ori_tg = 5
+has clique = False
+att len: 8
+att ori: ('270499', '28160', '-1', 2)
+att successful: True
+diff set len: 40
+Difference: 0.01%
+other influenced rel len: 18
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [19, 3, 1, 2]
+
+----ATT----
+rvs_provider = 8365
+rvs_customer = 29390
+att_announcer = 50360
+att_source = 209160
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 167
+has clique = False
+att len: 91
+att ori: ('29390', '8365', '-1', 4)
+att successful: True
+diff set len: 411
+Difference: 0.08%
+other influenced rel len: 218
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [186, 7, 1, 2]
+
+----ATT----
+rvs_provider = 34019
+rvs_customer = 29390
+att_announcer = 148968
+att_source = 134087
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 1522
+has clique = False
+att len: 1
+att ori: ('29390', '34019', '-1', 4)
+att successful: True
+diff set len: 13
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 11, 0, 1]
+
+----ATT----
+rvs_provider = 62240
+rvs_customer = 29390
+att_announcer = 35297
+att_source = 61371
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 204
+has clique = False
+att len: 73
+att ori: ('29390', '62240', '-1', 4)
+att successful: True
+diff set len: 341
+Difference: 0.06%
+other influenced rel len: 186
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [148, 7, 1, 2]
+
+----ATT----
+rvs_provider = 20847
+rvs_customer = 29390
+att_announcer = 6694
+att_source = 201804
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 151
+has clique = False
+att len: 99
+att ori: ('29390', '20847', '-1', 4)
+att successful: True
+diff set len: 440
+Difference: 0.08%
+other influenced rel len: 226
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [206, 7, 2, 2]
+
+----ATT----
+rvs_provider = 8455
+rvs_customer = 29390
+att_announcer = 262595
+att_source = 270668
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 330
+has clique = False
+att len: 10
+att ori: ('29390', '8455', '-1', 4)
+att successful: True
+diff set len: 49
+Difference: 0.01%
+other influenced rel len: 20
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [21, 7, 2, 2]
+
+----ATT----
+rvs_provider = 39647
+rvs_customer = 29390
+att_announcer = 58495
+att_source = 150959
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 105
+has clique = False
+att len: 122
+att ori: ('29390', '39647', '-1', 4)
+att successful: True
+diff set len: 550
+Difference: 0.10%
+other influenced rel len: 286
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [256, 7, 2, 2]
+
+----ATT----
+rvs_provider = 8298
+rvs_customer = 29390
+att_announcer = 197068
+att_source = 202880
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 1950
+has clique = False
+att len: 1
+att ori: ('29390', '8298', '-1', 4)
+att successful: True
+diff set len: 18
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 13, 1, 1]
+
+----ATT----
+rvs_provider = 49600
+rvs_customer = 29390
+att_announcer = 23947
+att_source = 59131
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 195
+has clique = False
+att len: 77
+att ori: ('29390', '49600', '-1', 4)
+att successful: True
+diff set len: 369
+Difference: 0.07%
+other influenced rel len: 204
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [158, 7, 1, 2]
+
+----ATT----
+rvs_provider = 38983
+rvs_customer = 29390
+att_announcer = 19037
+att_source = 52447
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 130
+has clique = False
+att len: 110
+att ori: ('29390', '38983', '-1', 4)
+att successful: True
+diff set len: 510
+Difference: 0.09%
+other influenced rel len: 280
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [222, 7, 2, 2]
+
+----ATT----
+rvs_provider = 9150
+rvs_customer = 29390
+att_announcer = 32363
+att_source = 40646
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 120
+has clique = False
+att len: 115
+att ori: ('29390', '9150', '-1', 4)
+att successful: True
+diff set len: 542
+Difference: 0.10%
+other influenced rel len: 298
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [236, 7, 2, 2]
+
+----ATT----
+rvs_provider = 211588
+rvs_customer = 29390
+att_announcer = 8764
+att_source = 205688
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 87
+has clique = False
+att len: 131
+att ori: ('29390', '211588', '-1', 4)
+att successful: True
+diff set len: 595
+Difference: 0.11%
+other influenced rel len: 312
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [276, 7, 1, 2]
+
+----ATT----
+rvs_provider = 8529
+rvs_customer = 29390
+att_announcer = 22356
+att_source = 61813
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 233
+has clique = False
+att len: 58
+att ori: ('29390', '8529', '-1', 4)
+att successful: True
+diff set len: 277
+Difference: 0.05%
+other influenced rel len: 144
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [126, 7, 1, 2]
+
+----ATT----
+rvs_provider = 12008
+rvs_customer = 37277
+att_announcer = 28283
+att_source = 53227
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 39
+has clique = False
+att len: 1
+att ori: ('37277', '12008', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 56987
+rvs_customer = 29390
+att_announcer = 29535
+att_source = 41297
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 169
+has clique = False
+att len: 90
+att ori: ('29390', '56987', '-1', 4)
+att successful: True
+diff set len: 437
+Difference: 0.08%
+other influenced rel len: 244
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [186, 7, 1, 2]
+
+----ATT----
+rvs_provider = 1680
+rvs_customer = 29390
+att_announcer = 397373
+att_source = 29997
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 345
+has clique = False
+att len: 2
+att ori: ('29390', '1680', '-1', 4)
+att successful: True
+diff set len: 22
+Difference: 0.00%
+other influenced rel len: 4
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [10, 7, 2, 2]
+
+----ATT----
+rvs_provider = 44592
+rvs_customer = 29390
+att_announcer = 12179
+att_source = 395110
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 154
+has clique = False
+att len: 98
+att ori: ('29390', '44592', '-1', 4)
+att successful: True
+diff set len: 430
+Difference: 0.08%
+other influenced rel len: 220
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [200, 9, 2, 2]
+
+----ATT----
+rvs_provider = 137409
+rvs_customer = 29390
+att_announcer = 264170
+att_source = 267202
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 3912
+has clique = False
+att len: 1
+att successful: False
+att line: ['264170 6939 15830 137409 29390 267202 ']
+att fail rel change: ('29390', '137409', '-1', 4), 
+diff set len: 1
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [0, 1, 0, 1]
+
+----ATT----
+rvs_provider = 9009
+rvs_customer = 29390
+att_announcer = 23910
+att_source = 138378
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 394
+has clique = False
+att len: 1
+att ori: ('29390', '9009', '-1', 4)
+att successful: True
+diff set len: 20
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [12, 7, 1, 1]
+
+----ATT----
+rvs_provider = 25091
+rvs_customer = 29390
+att_announcer = 201706
+att_source = 197972
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 3178
+has clique = False
+att len: 1
+att ori: ('29390', '25091', '-1', 4)
+att successful: True
+diff set len: 11
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 7, 0, 1]
+
+----ATT----
+rvs_provider = 201290
+rvs_customer = 29390
+att_announcer = 26554
+att_source = 55122
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 106
+has clique = False
+att len: 122
+att ori: ('29390', '201290', '-1', 4)
+att successful: True
+diff set len: 557
+Difference: 0.10%
+other influenced rel len: 298
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [252, 7, 1, 2]
+
+----ATT----
+rvs_provider = 42755
+rvs_customer = 29390
+att_announcer = 45117
+att_source = 149531
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 76
+has clique = False
+att len: 137
+att ori: ('29390', '42755', '-1', 4)
+att successful: True
+diff set len: 622
+Difference: 0.11%
+other influenced rel len: 336
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [278, 7, 2, 2]
+
+----ATT----
+rvs_provider = 25818
+rvs_customer = 29390
+att_announcer = 29030
+att_source = 50368
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 169
+has clique = False
+att len: 90
+att ori: ('29390', '25818', '-1', 4)
+att successful: True
+diff set len: 449
+Difference: 0.08%
+other influenced rel len: 234
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [202, 13, 1, 2]
+
+----ATT----
+rvs_provider = 139341
+rvs_customer = 29390
+att_announcer = 11427
+att_source = 54426
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 61
+has clique = False
+att len: 144
+att ori: ('29390', '139341', '-1', 4)
+att successful: True
+diff set len: 748
+Difference: 0.14%
+other influenced rel len: 360
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [358, 29, 2, 2]
+
+----ATT----
+rvs_provider = 3214
+rvs_customer = 29390
+att_announcer = 41704
+att_source = 50284
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 1540
+has clique = False
+att len: 1
+att ori: ('29390', '3214', '-1', 4)
+att successful: True
+diff set len: 12
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 7, 1, 1]
+
+----ATT----
+rvs_provider = 131418
+rvs_customer = 135948
+att_announcer = 9049
+att_source = 48763
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 10
+has clique = False
+att len: 3
+att ori: ('135948', '131418', '-1', 4)
+att successful: True
+diff set len: 16
+Difference: 0.00%
+other influenced rel len: 6
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [7, 3, 1, 2]
+
+----ATT----
+rvs_provider = 8218
+rvs_customer = 29390
+att_announcer = 13237
+att_source = 212583
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 1553
+has clique = False
+att len: 1
+att ori: ('29390', '8218', '-1', 4)
+att successful: True
+diff set len: 17
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [12, 7, 0, 1]
+
+----ATT----
+rvs_provider = 394354
+rvs_customer = 29390
+att_announcer = 5650
+att_source = 32000
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 140
+has clique = False
+att len: 105
+att ori: ('29390', '394354', '-1', 4)
+att successful: True
+diff set len: 488
+Difference: 0.09%
+other influenced rel len: 268
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [213, 7, 1, 2]
+
+----ATT----
+rvs_provider = 60064
+rvs_customer = 29390
+att_announcer = 13876
+att_source = 46719
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 122
+has clique = False
+att len: 114
+att ori: ('29390', '60064', '-1', 4)
+att successful: True
+diff set len: 500
+Difference: 0.09%
+other influenced rel len: 260
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [232, 7, 2, 2]
+
+----ATT----
+rvs_provider = 24940
+rvs_customer = 29390
+att_announcer = 29691
+att_source = 57118
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 233
+has clique = False
+att len: 58
+att ori: ('29390', '24940', '-1', 4)
+att successful: True
+diff set len: 276
+Difference: 0.05%
+other influenced rel len: 148
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [120, 8, 1, 3]
+
+----ATT----
+rvs_provider = 52500
+rvs_customer = 263726
+att_announcer = 28283
+att_source = 272549
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 9
+has clique = False
+att len: 3
+att ori: ('263726', '52500', '-1', 4)
+att successful: True
+diff set len: 22
+Difference: 0.00%
+other influenced rel len: 8
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [11, 3, 1, 2]
+
+----ATT----
+rvs_provider = 20562
+rvs_customer = 29390
+att_announcer = 50509
+att_source = 51178
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 1355
+has clique = False
+att len: 1
+att ori: ('29390', '20562', '-1', 4)
+att successful: True
+diff set len: 93
+Difference: 0.02%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [88, 7, 0, 1]
+
+----ATT----
+rvs_provider = 31529
+rvs_customer = 29390
+att_announcer = 21949
+att_source = 12093
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 209
+has clique = False
+att len: 70
+att ori: ('29390', '31529', '-1', 4)
+att successful: True
+diff set len: 335
+Difference: 0.06%
+other influenced rel len: 176
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [152, 7, 1, 2]
+
+----ATT----
+rvs_provider = 5713
+rvs_customer = 29390
+att_announcer = 45296
+att_source = 138117
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 1404
+has clique = False
+att len: 1
+att ori: ('29390', '5713', '-1', 4)
+att successful: True
+diff set len: 15
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [6, 11, 0, 1]
+
+----ATT----
+rvs_provider = 1547
+rvs_customer = 29390
+att_announcer = 327782
+att_source = 328314
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 206
+has clique = False
+att len: 72
+att ori: ('29390', '1547', '-1', 4)
+att successful: True
+diff set len: 351
+Difference: 0.06%
+other influenced rel len: 192
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [152, 7, 1, 2]
+
+----ATT----
+rvs_provider = 38880
+rvs_customer = 29390
+att_announcer = 9146
+att_source = 16145
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 193
+has clique = False
+att len: 78
+att ori: ('29390', '38880', '-1', 4)
+att successful: True
+diff set len: 355
+Difference: 0.07%
+other influenced rel len: 184
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [164, 7, 1, 2]
+
+----ATT----
+rvs_provider = 41998
+rvs_customer = 29390
+att_announcer = 56630
+att_source = 208414
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 142
+has clique = False
+att len: 104
+att ori: ('29390', '41998', '-1', 4)
+att successful: True
+diff set len: 461
+Difference: 0.09%
+other influenced rel len: 244
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [210, 7, 1, 2]
+
+----ATT----
+rvs_provider = 59545
+rvs_customer = 29390
+att_announcer = 51559
+att_source = 42846
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 97
+has clique = False
+att len: 126
+att ori: ('29390', '59545', '-1', 4)
+att successful: True
+diff set len: 565
+Difference: 0.10%
+other influenced rel len: 298
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [260, 7, 1, 2]
+
+----ATT----
+rvs_provider = 200020
+rvs_customer = 29390
+att_announcer = 8732
+att_source = 200743
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 140
+has clique = False
+att len: 105
+att ori: ('29390', '200020', '-1', 4)
+att successful: True
+diff set len: 501
+Difference: 0.09%
+other influenced rel len: 274
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [220, 7, 1, 2]
+
+----ATT----
+rvs_provider = 9158
+rvs_customer = 29390
+att_announcer = 38255
+att_source = 144764
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 64
+has clique = False
+att len: 143
+att ori: ('29390', '9158', '-1', 4)
+att successful: True
+diff set len: 677
+Difference: 0.12%
+other influenced rel len: 380
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [287, 9, 2, 2]
+
+----ATT----
+rvs_provider = 16265
+rvs_customer = 29390
+att_announcer = 18229
+att_source = 137645
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 358
+has clique = False
+att len: 1
+att ori: ('29390', '16265', '-1', 4)
+att successful: True
+diff set len: 20
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [14, 7, 1, 1]
+
+----ATT----
+rvs_provider = 64049
+rvs_customer = 29390
+att_announcer = 19551
+att_source = 10322
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 220
+has clique = False
+att len: 65
+att ori: ('29390', '64049', '-1', 4)
+att successful: True
+diff set len: 302
+Difference: 0.06%
+other influenced rel len: 160
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [136, 7, 0, 2]
+
+----ATT----
+rvs_provider = 61218
+rvs_customer = 39249
+att_announcer = 11058
+att_source = 64109
+rvs_p_ori_tg = 75
+rvs_c_ori_tg = 18
+has clique = False
+att len: 35
+att ori: ('39249', '61218', '-1', 2)
+att successful: True
+diff set len: 166
+Difference: 0.03%
+other influenced rel len: 90
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [71, 5, 1, 2]
+
+----ATT----
+rvs_provider = 50673
+rvs_customer = 29390
+att_announcer = 61010
+att_source = 47237
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 1091
+has clique = False
+att len: 1
+att ori: ('29390', '50673', '-1', 4)
+att successful: True
+diff set len: 11
+Difference: 0.00%
+other influenced rel len: 2
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 7, 0, 1]
+
+----ATT----
+rvs_provider = 132779
+rvs_customer = 1433
+att_announcer = 8412
+att_source = 211060
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 22
+has clique = False
+att len: 1
+att ori: ('1433', '132779', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 50104
+rvs_customer = 152435
+att_announcer = 269832
+att_source = 273173
+rvs_p_ori_tg = 7
+rvs_c_ori_tg = 12
+has clique = False
+att len: 4
+att ori: ('152435', '50104', '-1', 4)
+att successful: True
+diff set len: 24
+Difference: 0.00%
+other influenced rel len: 10
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [11, 3, 1, 2]
+
+----ATT----
+rvs_provider = 44444
+rvs_customer = 29390
+att_announcer = 12849
+att_source = 20645
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 126
+has clique = False
+att len: 112
+att ori: ('29390', '44444', '-1', 4)
+att successful: True
+diff set len: 523
+Difference: 0.10%
+other influenced rel len: 284
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [229, 9, 2, 2]
+
+----ATT----
+rvs_provider = 41047
+rvs_customer = 29390
+att_announcer = 33660
+att_source = 11688
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 76
+has clique = False
+att len: 137
+att ori: ('29390', '41047', '-1', 4)
+att successful: True
+diff set len: 623
+Difference: 0.11%
+other influenced rel len: 334
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [281, 7, 2, 2]
+
+----ATT----
+rvs_provider = 264452
+rvs_customer = 262304
+att_announcer = 12389
+att_source = 35102
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 2
+has clique = False
+att len: 7
+att ori: ('262304', '264452', '-1', 4)
+att successful: True
+diff set len: 30
+Difference: 0.01%
+other influenced rel len: 12
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 1, 2]
+
+----ATT----
+rvs_provider = 58075
+rvs_customer = 29390
+att_announcer = 201054
+att_source = 204479
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 61
+has clique = False
+att len: 144
+att ori: ('29390', '58075', '-1', 4)
+att successful: True
+diff set len: 649
+Difference: 0.12%
+other influenced rel len: 346
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [296, 7, 1, 2]
+
+----ATT----
+rvs_provider = 273575
+rvs_customer = 267062
+att_announcer = 11058
+att_source = 13474
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 4
+has clique = False
+att len: 6
+att ori: ('267062', '273575', '-1', 4)
+att successful: True
+diff set len: 26
+Difference: 0.00%
+other influenced rel len: 10
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [13, 3, 1, 2]
+
+----ATT----
+rvs_provider = 272268
+rvs_customer = 271016
+att_announcer = 268482
+att_source = 262891
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 2
+has clique = False
+att len: 7
+att ori: ('271016', '272268', '-1', 2)
+att successful: True
+diff set len: 35
+Difference: 0.01%
+other influenced rel len: 16
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 2, 2]
+
+----ATT----
+rvs_provider = 48374
+rvs_customer = 29390
+att_announcer = 4230
+att_source = 263263
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 50
+has clique = False
+att len: 150
+att ori: ('29390', '48374', '-1', 4)
+att successful: True
+diff set len: 675
+Difference: 0.12%
+other influenced rel len: 364
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [304, 7, 1, 2]
+
+----ATT----
+rvs_provider = 211882
+rvs_customer = 29390
+att_announcer = 397423
+att_source = 204903
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 87
+has clique = False
+att len: 131
+att ori: ('29390', '211882', '-1', 4)
+att successful: True
+diff set len: 577
+Difference: 0.11%
+other influenced rel len: 304
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [266, 7, 1, 2]
+
+----ATT----
+rvs_provider = 199095
+rvs_customer = 29390
+att_announcer = 4455
+att_source = 8781
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 51
+has clique = False
+att len: 149
+att ori: ('29390', '199095', '-1', 4)
+att successful: True
+diff set len: 683
+Difference: 0.13%
+other influenced rel len: 374
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [300, 9, 1, 2]
+
+----ATT----
+rvs_provider = 140731
+rvs_customer = 29390
+att_announcer = 9145
+att_source = 207289
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 6
+has clique = False
+att len: 172
+att ori: ('29390', '140731', '-1', 4)
+att successful: True
+diff set len: 781
+Difference: 0.14%
+other influenced rel len: 408
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [356, 17, 1, 2]
+
+----ATT----
+rvs_provider = 16350
+rvs_customer = 29390
+att_announcer = 45758
+att_source = 17478
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 4
+has clique = False
+att len: 173
+att ori: ('29390', '16350', '-1', 4)
+att successful: True
+diff set len: 779
+Difference: 0.14%
+other influenced rel len: 420
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [352, 7, 1, 2]
+
+----ATT----
+rvs_provider = 47065
+rvs_customer = 12148
+att_announcer = 28186
+att_source = 61902
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 90
+has clique = False
+att len: 1
+att ori: ('12148', '47065', '-1', 4)
+att successful: True
+diff set len: 5
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 0, 1]
+
+----ATT----
+rvs_provider = 266280
+rvs_customer = 267312
+att_announcer = 7385
+att_source = 21718
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 20
+has clique = False
+att len: 1
+att ori: ('267312', '266280', '-1', 4)
+att successful: True
+diff set len: 7
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [5, 3, 1, 1]
+
+----ATT----
+rvs_provider = 20857
+rvs_customer = 29390
+att_announcer = 38255
+att_source = 143008
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 58
+has clique = False
+att len: 146
+att ori: ('29390', '20857', '-1', 4)
+att successful: True
+diff set len: 656
+Difference: 0.12%
+other influenced rel len: 350
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [298, 7, 2, 2]
+
+----ATT----
+rvs_provider = 204210
+rvs_customer = 198127
+att_announcer = 3303
+att_source = 48590
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 2
+has clique = False
+att len: 7
+att ori: ('198127', '204210', '-1', 4)
+att successful: True
+diff set len: 34
+Difference: 0.01%
+other influenced rel len: 16
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 1, 2]
+
+----ATT----
+rvs_provider = 62105
+rvs_customer = 29390
+att_announcer = 12213
+att_source = 11775
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 99
+has clique = False
+att len: 125
+att ori: ('29390', '62105', '-1', 4)
+att successful: True
+diff set len: 565
+Difference: 0.10%
+other influenced rel len: 302
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [256, 7, 1, 2]
+
+----ATT----
+rvs_provider = 48596
+rvs_customer = 29390
+att_announcer = 48678
+att_source = 201021
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 41
+has clique = False
+att len: 154
+att ori: ('29390', '48596', '-1', 4)
+att successful: True
+diff set len: 694
+Difference: 0.13%
+other influenced rel len: 370
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [315, 9, 1, 2]
+
+----ATT----
+rvs_provider = 200334
+rvs_customer = 39249
+att_announcer = 61400
+att_source = 196780
+rvs_p_ori_tg = 75
+rvs_c_ori_tg = 4
+has clique = False
+att len: 42
+att ori: ('39249', '200334', '-1', 2)
+att successful: True
+diff set len: 204
+Difference: 0.04%
+other influenced rel len: 110
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [91, 3, 1, 2]
+
+----ATT----
+rvs_provider = 42707
+rvs_customer = 29390
+att_announcer = 34984
+att_source = 12794
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 106
+has clique = False
+att len: 122
+att ori: ('29390', '42707', '-1', 4)
+att successful: True
+diff set len: 554
+Difference: 0.10%
+other influenced rel len: 298
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [248, 7, 2, 2]
+
+----ATT----
+rvs_provider = 47065
+rvs_customer = 3130
+att_announcer = 52559
+att_source = 270343
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 90
+has clique = False
+att len: 1
+att ori: ('3130', '47065', '-1', 4)
+att successful: True
+diff set len: 6
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [4, 3, 1, 1]
+
+----ATT----
+rvs_provider = 210036
+rvs_customer = 29390
+att_announcer = 24745
+att_source = 215945
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 114
+has clique = False
+att len: 118
+att ori: ('29390', '210036', '-1', 4)
+att successful: True
+diff set len: 550
+Difference: 0.10%
+other influenced rel len: 298
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [238, 13, 2, 2]
+
+----ATT----
+rvs_provider = 56381
+rvs_customer = 29390
+att_announcer = 20473
+att_source = 215188
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 59
+has clique = False
+att len: 145
+att ori: ('29390', '56381', '-1', 4)
+att successful: True
+diff set len: 642
+Difference: 0.12%
+other influenced rel len: 342
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [291, 9, 1, 2]
+
+----ATT----
+rvs_provider = 272218
+rvs_customer = 267473
+att_announcer = 29390
+att_source = 35758
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 2
+has clique = False
+att len: 7
+att ori: ('267473', '272218', '-1', 2)
+att successful: True
+diff set len: 49
+Difference: 0.01%
+other influenced rel len: 16
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [29, 3, 2, 2]
+
+----ATT----
+rvs_provider = 132337
+rvs_customer = 29390
+att_announcer = 6939
+att_source = 31859
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 20
+has clique = False
+att len: 165
+att ori: ('29390', '132337', '-1', 4)
+att successful: True
+diff set len: 736
+Difference: 0.14%
+other influenced rel len: 398
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [331, 7, 1, 2]
+
+----ATT----
+rvs_provider = 7500
+rvs_customer = 29390
+att_announcer = 15164
+att_source = 20103
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 50
+has clique = False
+att len: 150
+att ori: ('29390', '7500', '-1', 4)
+att successful: True
+diff set len: 682
+Difference: 0.13%
+other influenced rel len: 366
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [309, 7, 1, 2]
+
+----ATT----
+rvs_provider = 13135
+rvs_customer = 206813
+att_announcer = 9049
+att_source = 12739
+rvs_p_ori_tg = 61
+rvs_c_ori_tg = 13
+has clique = False
+att len: 31
+att ori: ('206813', '13135', '-1', 7)
+att successful: True
+diff set len: 144
+Difference: 0.03%
+other influenced rel len: 78
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [63, 3, 1, 2]
+
+----ATT----
+rvs_provider = 216075
+rvs_customer = 215144
+att_announcer = 24245
+att_source = 20249
+rvs_p_ori_tg = 5
+rvs_c_ori_tg = 3
+has clique = False
+att len: 8
+att ori: ('215144', '216075', '-1', 2)
+att successful: True
+diff set len: 35
+Difference: 0.01%
+other influenced rel len: 14
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [17, 3, 2, 2]
+
+----ATT----
+rvs_provider = 9008
+rvs_customer = 29390
+att_announcer = 17806
+att_source = 141412
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 58
+has clique = False
+att len: 146
+att ori: ('29390', '9008', '-1', 4)
+att successful: True
+diff set len: 644
+Difference: 0.12%
+other influenced rel len: 342
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [295, 7, 1, 2]
+
+----ATT----
+rvs_provider = 201364
+rvs_customer = 20649
+att_announcer = 11432
+att_source = 265918
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 2
+has clique = False
+att len: 7
+att ori: ('20649', '201364', '-1', 4)
+att successful: True
+diff set len: 36
+Difference: 0.01%
+other influenced rel len: 18
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 1, 2]
+
+----ATT----
+rvs_provider = 13445
+rvs_customer = 139281
+att_announcer = 198330
+att_source = 209928
+rvs_p_ori_tg = 6
+rvs_c_ori_tg = 5
+has clique = False
+att len: 7
+att ori: ('139281', '13445', '-1', 2)
+att successful: True
+diff set len: 31
+Difference: 0.01%
+other influenced rel len: 14
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [14, 3, 1, 2]
+
+----ATT----
+rvs_provider = 272498
+rvs_customer = 271314
+att_announcer = 64315
+att_source = 149897
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 3
+has clique = False
+att len: 6
+att ori: ('271314', '272498', '-1', 4)
+att successful: True
+diff set len: 31
+Difference: 0.01%
+other influenced rel len: 12
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 2, 2]
+
+----ATT----
+rvs_provider = 48752
+rvs_customer = 39249
+att_announcer = 3326
+att_source = 42146
+rvs_p_ori_tg = 75
+rvs_c_ori_tg = 33
+has clique = False
+att len: 28
+att ori: ('39249', '48752', '-1', 2)
+att successful: True
+diff set len: 140
+Difference: 0.03%
+other influenced rel len: 76
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [61, 3, 1, 2]
+
+----ATT----
+rvs_provider = 13356
+rvs_customer = 396443
+att_announcer = 49981
+att_source = 136787
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 2
+has clique = False
+att len: 7
+att ori: ('396443', '13356', '-1', 2)
+att successful: True
+diff set len: 32
+Difference: 0.01%
+other influenced rel len: 14
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 1, 2]
+
+----ATT----
+rvs_provider = 142401
+rvs_customer = 152435
+att_announcer = 2497
+att_source = 55385
+rvs_p_ori_tg = 7
+rvs_c_ori_tg = 4
+has clique = False
+att len: 8
+att ori: ('152435', '142401', '-1', 2)
+att successful: True
+diff set len: 38
+Difference: 0.01%
+other influenced rel len: 18
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [17, 3, 1, 2]
+
+----ATT----
+rvs_provider = 1101
+rvs_customer = 29390
+att_announcer = 4213
+att_source = 20264
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 82
+has clique = False
+att len: 134
+att ori: ('29390', '1101', '-1', 4)
+att successful: True
+diff set len: 607
+Difference: 0.11%
+other influenced rel len: 326
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [272, 9, 1, 2]
+
+----ATT----
+rvs_provider = 273659
+rvs_customer = 266117
+att_announcer = 20485
+att_source = 62382
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 3
+has clique = False
+att len: 6
+att ori: ('266117', '273659', '-1', 4)
+att successful: True
+diff set len: 38
+Difference: 0.01%
+other influenced rel len: 20
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 1, 2]
+
+----ATT----
+rvs_provider = 273634
+rvs_customer = 263667
+att_announcer = 6939
+att_source = 32478
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 2
+has clique = False
+att len: 7
+att ori: ('263667', '273634', '-1', 2)
+att successful: True
+diff set len: 34
+Difference: 0.01%
+other influenced rel len: 14
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [17, 3, 1, 2]
+
+----ATT----
+rvs_provider = 267568
+rvs_customer = 269631
+att_announcer = 766
+att_source = 205580
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 3
+has clique = False
+att len: 7
+att ori: ('269631', '267568', '-1', 4)
+att successful: True
+diff set len: 36
+Difference: 0.01%
+other influenced rel len: 18
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 1, 2]
+
+----ATT----
+rvs_provider = 14593
+rvs_customer = 29390
+att_announcer = 20773
+att_source = 60253
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 75
+has clique = False
+att len: 137
+att ori: ('29390', '14593', '-1', 4)
+att successful: True
+diff set len: 725
+Difference: 0.13%
+other influenced rel len: 402
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [292, 31, 1, 2]
+
+----ATT----
+rvs_provider = 13445
+rvs_customer = 29390
+att_announcer = 3326
+att_source = 200000
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 5
+has clique = False
+att len: 172
+att ori: ('29390', '13445', '-1', 4)
+att successful: True
+diff set len: 787
+Difference: 0.15%
+other influenced rel len: 424
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [356, 7, 1, 2]
+
+----ATT----
+rvs_provider = 30132
+rvs_customer = 29390
+att_announcer = 45650
+att_source = 135337
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 63
+has clique = False
+att len: 143
+att ori: ('29390', '30132', '-1', 4)
+att successful: True
+diff set len: 635
+Difference: 0.12%
+other influenced rel len: 338
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [287, 9, 2, 2]
+
+----ATT----
+rvs_provider = 1659
+rvs_customer = 17711
+att_announcer = 7046
+att_source = 16769
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 2
+has clique = False
+att len: 7
+att ori: ('17711', '1659', '-1', 4)
+att successful: True
+diff set len: 39
+Difference: 0.01%
+other influenced rel len: 16
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [19, 3, 2, 2]
+
+----ATT----
+rvs_provider = 51514
+rvs_customer = 29390
+att_announcer = 62081
+att_source = 56523
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 47
+has clique = False
+att len: 151
+att ori: ('29390', '51514', '-1', 4)
+att successful: True
+diff set len: 671
+Difference: 0.12%
+other influenced rel len: 354
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [310, 7, 1, 2]
+
+----ATT----
+rvs_provider = 30920
+rvs_customer = 8496
+att_announcer = 201054
+att_source = 199846
+rvs_p_ori_tg = 2
+rvs_c_ori_tg = 3
+has clique = False
+att len: 6
+att ori: ('8496', '30920', '-1', 4)
+att successful: True
+diff set len: 30
+Difference: 0.01%
+other influenced rel len: 12
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [15, 3, 1, 2]
+
+----ATT----
+rvs_provider = 396416
+rvs_customer = 39249
+att_announcer = 20764
+att_source = 49063
+rvs_p_ori_tg = 75
+rvs_c_ori_tg = 2
+has clique = False
+att len: 43
+att ori: ('39249', '396416', '-1', 2)
+att successful: True
+diff set len: 212
+Difference: 0.04%
+other influenced rel len: 118
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [91, 3, 1, 2]
+
+----ATT----
+rvs_provider = 197301
+rvs_customer = 29390
+att_announcer = 24756
+att_source = 34199
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 40
+has clique = False
+att len: 155
+att ori: ('29390', '197301', '-1', 4)
+att successful: True
+diff set len: 698
+Difference: 0.13%
+other influenced rel len: 378
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [312, 7, 2, 2]
+
+----ATT----
+rvs_provider = 56038
+rvs_customer = 142539
+att_announcer = 12389
+att_source = 57494
+rvs_p_ori_tg = 3
+rvs_c_ori_tg = 36
+has clique = False
+att len: 1
+att ori: ('142539', '56038', '-1', 4)
+att successful: True
+diff set len: 4
+Difference: 0.00%
+other influenced rel len: 0
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [3, 3, 0, 1]
+
+----ATT----
+rvs_provider = 32934
+rvs_customer = 29390
+att_announcer = 396926
+att_source = 398455
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 312
+has clique = False
+att len: 19
+att ori: ('29390', '32934', '-1', 4)
+att successful: True
+diff set len: 102
+Difference: 0.02%
+other influenced rel len: 42
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [52, 7, 2, 2]
+
+----ATT----
+rvs_provider = 41480
+rvs_customer = 29390
+att_announcer = 262572
+att_source = 44477
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 47
+has clique = False
+att len: 151
+att ori: ('29390', '41480', '-1', 4)
+att successful: True
+diff set len: 687
+Difference: 0.13%
+other influenced rel len: 370
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [310, 7, 1, 2]
+
+----ATT----
+rvs_provider = 38915
+rvs_customer = 29390
+att_announcer = 4847
+att_source = 18118
+rvs_p_ori_tg = 336
+rvs_c_ori_tg = 3
+has clique = False
+att len: 173
+att ori: ('29390', '38915', '-1', 4)
+att successful: True
+diff set len: 784
+Difference: 0.14%
+other influenced rel len: 422
+diff [rvs_provider, rvs_customer, att_announcer, att_source] = [354, 7, 2, 2]
+

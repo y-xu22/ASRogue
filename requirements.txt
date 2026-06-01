@@ -3,3 +3,5 @@ numpy
 pandas
 requests
 tqdm
+matplotlib
+seaborn
