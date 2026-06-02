@@ -7,7 +7,7 @@ Artifacts for the USENIX Security '26 paper: "ASRogue: Manipulating ASRank-Infer
 2. `GeneratePath.py`: Generates forged AS paths used in ASRogue's attack evaluation.
 3. `run_multi.py`: Executes multiple experiments by randomly selecting a pair of target ASes and a pair of P2C ASes as attackers, constructing forged attack paths, and injecting them into ASRank's inference pipeline. After inference completes, the attacked results are compared against the original baseline output.
 4. Files in `data`: `inference-20241001_ori.txt` is the baseline ASRank inference output. `all rel TD.txt` lists, for each relationship in `inference-20241001_ori.txt`, the two ASes' transit degree values, their difference, and the inference step. `AS_size.txt` gives the number of ASes in each size category and the ASNs included in each category. `p2c rel tg.txt` contains, for each provider-to-customer (P2C) relation in `inference-20241001_ori.txt`, the two ASes' transit degree values, their difference, and the inference step.
-5. Files in `draw pic data`: contain the plotting data, plotting scripts, and generated figures.
+5. Files in `plot and table data`: contain the plotting data, plotting scripts, table data, table-generation scripts, and generated figures.
 
 ## Dataset
 
