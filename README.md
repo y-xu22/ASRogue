@@ -18,7 +18,7 @@ Downloadable from RouteViews and RIPE RIS, e.g.
 https://data.ris.ripe.net/rrc00/2024.09/bview.20240930.0000.gz  
 http://archive.routeviews.org/route-views2/bgpdata/2024.09/RIBS/rib.20240930.0000.bz2
 
-	- Due to Zenodo's storage limitations, the RIB snapshots from RouteViews and RIPE RIS are not included directly
+	- Due to Zenodo's storage limitations, only a subset of the RIB snapshots from RouteViews and RIPE RIS is included directly.
 
 ## Requirements
 - System and hardware requirements: No specific requirements
