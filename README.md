@@ -22,6 +22,7 @@ http://archive.routeviews.org/route-views2/bgpdata/2024.09/RIBS/rib.20240930.000
 - System and hardware requirements: No specific requirements
 - Software requirements: Python 3.11
 - Python dependencies: see `requirements.txt`
+	- To run the BEAM poisoning experiment, you need an NVIDIA GPU with at least 8 GB of memory, as well as three additional dependencies: `torch`, `scipy`, and `python-dateutil`.
 
 ## Setup
 1. Create and activate a Python 3.11 environment.
