@@ -7,16 +7,18 @@ Artifacts for the USENIX Security '26 paper: "ASRogue: Manipulating ASRank-Infer
 2. `GeneratePath.py`: Generates forged AS paths used in ASRogue's attack evaluation.
 3. `run_multi.py`: Executes multiple experiments by randomly selecting a pair of target ASes and a pair of P2C ASes as attackers, constructing forged attack paths, and injecting them into ASRank's inference pipeline. After inference completes, the attacked results are compared against the original baseline output.
 4. Files in `data`: `inference-20241001_ori.txt` is the baseline ASRank inference output. `all rel TD.txt` lists, for each relationship in `inference-20241001_ori.txt`, the two ASes' transit degree values, their difference, and the inference step. `AS_size.txt` gives the number of ASes in each size category and the ASNs included in each category. `p2c rel tg.txt` contains, for each provider-to-customer (P2C) relation in `inference-20241001_ori.txt`, the two ASes' transit degree values, their difference, and the inference step.
-5. Files in `draw pic data`: contains the plotting data, the plotting scripts, and the generated figures.
+5. Files in `draw pic data`: contain the plotting data, plotting scripts, and generated figures.
 
 ## Dataset
 
 1. **ASRank all-path dataset** :  
-Obtainable from CAIDA (e.g. https://publicdata.caida.org/datasets/as-relationships/serial-1/20241001.all-paths.bz2) or directly use the local copy of `20241001.all-paths.bz2`.
+Available from CAIDA (e.g. https://publicdata.caida.org/datasets/as-relationships/serial-1/20241001.all-paths.bz2) or directly use the local copy of `20241001.all-paths.bz2`.
 2. **Real-world RIB dataset** :  
 Downloadable from RouteViews and RIPE RIS, e.g.  
 https://data.ris.ripe.net/rrc00/2024.09/bview.20240930.0000.gz  
 http://archive.routeviews.org/route-views2/bgpdata/2024.09/RIBS/rib.20240930.0000.bz2
+
+	- Due to Zenodo's storage limitations, the RIB snapshots from RouteViews and RIPE RIS are not included directly
 
 ## Requirements
 - System and hardware requirements: No specific requirements
@@ -26,7 +28,7 @@ http://archive.routeviews.org/route-views2/bgpdata/2024.09/RIBS/rib.20240930.000
 
 ## Setup
 1. Create and activate a Python 3.11 environment.
-	```powershell
+	```bash
 	python -m venv .venv
 	source .venv/bin/activate
 	```
