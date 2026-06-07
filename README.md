@@ -37,6 +37,11 @@ http://archive.routeviews.org/route-views2/bgpdata/2024.09/RIBS/rib.20240930.000
 	python -m pip install -r requirements.txt
 	```
 
+## Quick Start Scripts
+1. If you want to run the full pipeline in one shot, execute `bash run_all.sh` from the repository root. The script will create and activate `.venv`, install the required packages, download the dataset, run the baseline inference, then launch `run_multi.py allp2c allrand 10`, and finally deactivate the virtual environment.
+2. If you want to generate all figures and tables in `plot and table data`, execute `bash run_plot_and_table.sh` from the repository root. The script will activate `.venv`, install the required packages, run every Python program in each subfolder in order, and then deactivate the virtual environment.
+	- To draw the plots correctly, the `Times New Roman` font family must be available in your environment.
+
 ## Usage
 1. Download the dataset `20241001.all-paths.bz2` from CAIDA, or obtain it by running
 `python download.py https://publicdata.caida.org/datasets/as-relationships/serial-1/20241001.all-paths.bz2 -o data`. Alternatively, you can use the local copy of `20241001.all-paths.bz2`.

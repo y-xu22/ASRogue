@@ -47,5 +47,8 @@ with open("./all rel TD.txt", "r") as f:
         p2c_infer[(loc1, loc2)] += 1
         total += 1
 
-print(p2c_infer)
-print(total)
+with open("./AS size p2c infer.txt", "w", encoding="utf-8") as f:
+    for i in size:
+        for j in size:
+            f.write(f"{i} {j} : {p2c_infer[(i, j)]}\n")
+    f.write(f"total : {total}\n")
